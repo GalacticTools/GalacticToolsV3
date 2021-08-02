@@ -1,0 +1,1068 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Costura.Fody.5.3.0\build\Costura.Fody.props" Condition="Exists('..\packages\Costura.Fody.5.3.0\build\Costura.Fody.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5E46ED6-A531-439D-82F6-60C0BC74A4E2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GalacticToolsV3</RootNamespace>
+    <AssemblyName>GalacticToolsV3</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>hnet.com-image_1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AltoHttp, Version=1.0.7813.41648, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AltoHttp.1.5.1\lib\net45\AltoHttp.dll</HintPath>
+    </Reference>
+    <Reference Include="Costura, Version=5.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Costura.Fody.5.3.0\lib\netstandard1.0\Costura.dll</HintPath>
+    </Reference>
+    <Reference Include="DiscordRPC, Version=1.0.175.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DiscordRichPresence.1.0.175\lib\net35\DiscordRPC.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.4\lib\net40\Guna.UI2.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NvAPIWrapper, Version=0.8.1.100, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\NvAPIWrapper.Net.0.8.1.101\lib\net45\NvAPIWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.AppContext, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.AppContext.4.3.0\lib\net463\System.AppContext.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Console, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Console.4.3.0\lib\net46\System.Console.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.3.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.Tracing.4.3.0\lib\net462\System.Diagnostics.Tracing.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Globalization.Calendars.4.3.0\lib\net46\System.Globalization.Calendars.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.4.3.0\lib\net46\System.IO.Compression.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.ZipFile.4.3.0\lib\net46\System.IO.Compression.ZipFile.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.4.3.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Log" />
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+    <Reference Include="System.Linq, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.4.3.0\lib\net463\System.Linq.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Linq.Expressions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.Expressions.4.3.0\lib\net463\System.Linq.Expressions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.0\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Sockets, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Sockets.4.3.0\lib\net46\System.Net.Sockets.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Reflection, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reflection.4.3.0\lib\net462\System.Reflection.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Runtime.DurableInstancing" />
+    <Reference Include="System.Runtime.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.Extensions.4.3.0\lib\net462\System.Runtime.Extensions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.4.3.0\lib\net463\System.Runtime.InteropServices.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.RegularExpressions.4.3.0\lib\net463\System.Text.RegularExpressions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.ReaderWriter, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Xml.ReaderWriter.4.3.0\lib\net46\System.Xml.ReaderWriter.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps.Designer.cs">
+      <DependentUpon>Apps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coming Soon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coming Soon.Designer.cs">
+      <DependentUpon>Coming Soon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Error.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Error.Designer.cs">
+      <DependentUpon>Error.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gay.Designer.cs">
+      <DependentUpon>gay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info.Designer.cs">
+      <DependentUpon>Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginSettings.designer.cs">
+      <DependentUpon>LoginSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnFlagger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnFlagger.Designer.cs">
+      <DependentUpon>UnFlagger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emulators.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emulators.Designer.cs">
+      <DependentUpon>Emulators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Games.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Games.Designer.cs">
+      <DependentUpon>Games.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Launchers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Launchers.Designer.cs">
+      <DependentUpon>Launchers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Startup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Startup.Designer.cs">
+      <DependentUpon>Startup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Apps.resx">
+      <DependentUpon>Apps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coming Soon.resx">
+      <DependentUpon>Coming Soon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Error.resx">
+      <DependentUpon>Error.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gay.resx">
+      <DependentUpon>gay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info.resx">
+      <DependentUpon>Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginSettings.resx">
+      <DependentUpon>LoginSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnFlagger.resx">
+      <DependentUpon>UnFlagger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emulators.resx">
+      <DependentUpon>Emulators.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Games.resx">
+      <DependentUpon>Games.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Launchers.resx">
+      <DependentUpon>Launchers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Startup.resx">
+      <DependentUpon>Startup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-male-user-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-96_200x200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-right-arrow-96_200x200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings-144.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154_40x40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-less-than-52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-less-than-52_29x29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-less-than-96_1_29x29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-less-than-100_29x29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-metamorphose-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-metamorphose-96_21x21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed_30x25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-480.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-480_30x25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-male-user-96_21x21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-50_30x25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-apps-tab-50_30x25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-50_30x251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed_30x251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-apps-tab-50_30x251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_account_symbol_145x134.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_account_symbol_145x1341.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_account_symbol_171x165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-96_200x2001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-96_200x200_21x21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_account_symbol_2_183x182.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-info-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nvidia-geforce-claw-logo_30x25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_videogame_icons-05_611918_25x25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-desktop-mac-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-apps-tab-96_1_30x25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parsec_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam-logo-transparent %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RPCS3_LOGO_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-explorer-folder-libraries-icon-18298.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Firefox_logo_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-instagram-png-logo-20_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spotify-download-logo-30_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Google_Chrome_icon_2011_1_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-OBS_Studio_Logo_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam-logo-transparent_1_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ubisoft-connect_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\882px-Epic_Games_logo_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\origin-2-569446_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Origin-logo_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-epic-cb4399a7ee205610531057537937045e_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VBCable_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seven-kingdoms-9_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom-fondo-blanco-vertical-logo-F819E1C283-seeklogo_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anydesk-for-mac_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spotify-download-logo-30_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zortosunzipperlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ubisoft-connect_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-epic-cb4399a7ee205610531057537937045e_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam-logo-transparent_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ubisoft-connect_128x1292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-epic-cb4399a7ee205610531057537937045e_128x1292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seven-kingdoms-9_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spotify-download-logo-30_128x1292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parsec_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anydesk-for-mac_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opera_gx_browser_logo_icon_152976_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peazip-icon_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blizzard_Battle.net_logo_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vegas_Pro_15.0_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\task-manager-taskmgr-icon-big_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peazip-icon_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Firefox_logo_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_11_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\task-manager-taskmgr-icon-big_128x1292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opera_gx_browser_logo_icon_152976_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_128x129.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CtrlTab_159-2_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d9qp2p7-1a0f9cc6-26b2-4c73-8636-850ba731d191_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZortosUnzipper_32512-1_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TeamViewer_Logo_512x512_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_128x129.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16182610568647591714541588417574_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16182609953574579341748529190482_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fl-studio_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\179-1793019_windows-10-file-explorer-icon-hd-png-download_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\build-10158_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16182609953574579341748529190482_128x1291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16182610568647591714541588417574_128x1292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PowerISO_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed_30x252.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed_30x253.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed_30x254.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\58482afbcef1014c0b5e4a21_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visual-studio-code-logo-png-transparent_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File-Explorer-fluent-icon_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\518OkiXrUL_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam-logo-transparent_2_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cloud_Force_1_1_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SatrixTools_Server_Icon_Remake_1_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Galactic_tools_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Galactic_tools_190x168_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\defaultLogo_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\defaultLogo_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown_1_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fdsff_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\defaultLogo_190x1681.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown_190x168 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown_190x168 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ed4ca193fcdf72b005b170f1042c369d_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ed4ca193fcdf72b005b170f1042c369d_190x168_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown_190x168_1_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SatrixTools_Server_Icon_Remake_1_190x1681.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\danewlogoResizedV2_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pc-rpcs3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RPCS3_LOGO_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clip-art-dolphin-computer-icons-portable-network-graphics-emulator-png-favpng-QHXbXUa35KLWhd3paHbnqhNHG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\66-663254_dolphin-emulator-dolphin-wii-icon-clipart_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_190x168_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_13_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Xenia_Emulator_Upadted_Logo_190x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Xenia_Emulator_Upadted_Logo_190x168_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dolphin-logo.svg_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_190x1681.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7605670_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-super-nintendo-entertainment-system-retroarch-playstation-emulator-game-boy-advance-playstation-angle-electronics-text-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29145659-a3038400-7d23-11e7-8cf4-02a20ee4d59d_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\519-5198145_bluestacks-icon-bluestacks-logo-png_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\432px-Yuzu_Emulator_SVG.svg_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fdsff_183x168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154_1_128x129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyberpunk_2077_box_art_1_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.28990.69531514236615003.8f0d03d6-6311-4c21-a151-834503c2901a_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watch-dogs-legion-cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HITMAN_III_art_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mobile-cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\220px-Grand_Theft_Auto_V_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.26312.70628478259232551.a0089f3a-b3b5-4c4b-bdaf-0d97810a4816_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_1_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\300px-Resident_Evil_3_cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Death_Stranding_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detroit_Become_Human_Cover_001_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Dead_Redemption_II_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\300px-Doom_Eternal_cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grand_Theft_Auto_IV_cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\300px-Hitman_2_cover_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizon_Zero_Dawn_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfp1c3QENHakdjuf424Yt6hVn_mmFbOV-M8rITUoVj8_350x200_1x-0_1_185x270.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.13367.13817186670444302.148c432a-9fce-4c7d-bf13-8a2bd3a527b3_185x270.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4ea88a5395a3618cb13479f6b5172f79_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ksp_box_art_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\329975-emp_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.36093.14339303838396367.725ab8dd-f8b7-4a29-a351-45ebd5d66edd_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\far_cry_3_pal_box_art_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_2_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x270.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x2701.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crysis-remastered-cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.24111.65806558541457305.a0ff0982-eced-4bfd-bb78-5ba7a73376c4_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creed_box_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Assassins_Creed_2_Box_Art_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Assassin%27s_Creed_III_Game_Cover.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Assassins_Creed_III_Game_Cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.52808.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.52808.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076_185x2701.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_4_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_5_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_2_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91--4R2rAjL_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ACOrigins_cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ACOdysseyCoverArt_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ACOdysseyCoverArt_185x2701.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shadow_of_the_Tomb_Raider_cover_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_3_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Among-Us-Wallpaper_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\getting-over-it-with-bennet-foddy-font_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ori_and_the_Blind_Forest_Logo_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\220px-Max_Payne_3_Cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resident_Evil_7_cover_art_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.23943.13510798883386282.e6f02eb7-a760-453e-8d79-46d4ec74807e_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_4_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minecraft-cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resident-evil-2-biohazard-re2-cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eed8617c83ce52e9beb552ad8eb468d3_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_5_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Battlefield_V_standard_edition_box_art_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\300px-Prey_for_the_Gods_cover_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modern_Warfare_2_cover_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Advanced_Warfare_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.29198.66416288418246547.8db04ed4-6710-424c-b2c7-fc1b8f89e9a2_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mafia_Definitive_Edition_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nba2k21_fob_LE_CG_1_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_6_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps.43582.65690499810545026.aa1d3860-b757-4828-bb9e-87e0858403fe_185x270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MV5BYjY3ODFmNWUtNjhjNC00NTExLWIxYmEtYmQ0YTk5NjkzYTUwXkEyXkFqcGdeQXVyNzEyNjcwNTk._V1__231x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MV5BYjY3ODFmNWUtNjhjNC00NTExLWIxYmEtYmQ0YTk5NjkzYTUwXkEyXkFqcGdeQXVyNzEyNjcwNTk._V1__231x2701.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images_9_231x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prince-of-persia-the-forgotten-sands-cover_1_185x2702.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sands_of_time_cover_185x2701.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PoPWW_Boxart_185x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hnet.com-image_1.ico" />
+    <None Include="Resources\unflag_50px6.png" />
+    <None Include="Resources\unflag_50px5.png" />
+    <None Include="Resources\unflag_50px4.png" />
+    <None Include="Resources\unflag_50px3.png" />
+    <None Include="Resources\unflag_50px2.png" />
+    <None Include="Resources\unflag_50px1.png" />
+    <None Include="Resources\Screenshot_20210717-145955.jpeg" />
+    <None Include="Resources\unflag_50px.png" />
+    <None Include="Resources\thumb_14446818090regedit-removebg-preview.png" />
+    <None Include="Resources\bravelmao my guy u gay.png" />
+    <None Include="Resources\minecraft_logo_icon_168974.png" />
+    <None Include="Resources\Roblox_logo.png" />
+    <None Include="Resources\ezgif.com-gif-maker %283%29.gif" />
+    <None Include="Resources\Yuviqei.png" />
+    <None Include="Resources\download-removebg-preview %281%29.png" />
+    <None Include="Resources\download-removebg-preview.png" />
+    <None Include="Resources\download.jpg" />
+    <None Include="Resources\364-3640589_desktop-comments-desktop-vector-icon-png.png" />
+    <None Include="Resources\5857242931556279648-512.png" />
+    <None Include="Resources\Notepad++_Logo.svg.png" />
+    <None Include="Resources\tjPOPhB.png" />
+    <None Include="Resources\parsec.png" />
+    <None Include="Resources\ShareX_Logo.png" />
+    <None Include="Resources\a_df92d8ce3fa9dba25b72cfc7fda42b40.gif" />
+    <None Include="Resources\discord-mascot.png" />
+    <None Include="Resources\discord-logo1.png" />
+    <None Include="Resources\discord-logo.png" />
+    <None Include="Resources\51uRGn90-4L.png" />
+    <None Include="Resources\ShareX_Icon.png" />
+    <None Include="Resources\588a64e7d06f6719692a2d11.png" />
+    <None Include="Resources\png-clipart-three-gray-lines-illustration-hamburger-menu-icon-icons-logos-emojis-menu-icons.png" />
+    <None Include="Resources\588a64f5d06f6719692a2d13.png" />
+    <None Include="Resources\icons8-menu-48 %281%29.png" />
+    <None Include="Resources\versions_24px.png" />
+    <None Include="Resources\application_window_32px.png" />
+    <None Include="Resources\b5366f6c592e0d7a7fe6c675b1e63ebf.png" />
+    <None Include="Resources\3037cb576e8a708c486e67b8ef6d7dcc.png" />
+    <None Include="Resources\clock_24px.png" />
+    <None Include="Resources\micro_sd_50px.png" />
+    <None Include="Resources\video_card_32px.png" />
+    <None Include="Resources\processor_50px.png" />
+    <None Include="Resources\planner_24px.png" />
+    <None Include="Resources\workstation_30px1.png" />
+    <None Include="Resources\workstation_30px.png" />
+    <None Include="Resources\laptop_50px1.png" />
+    <None Include="Resources\laptop_50px.png" />
+    <None Include="Resources\apps_tab_32px.png" />
+    <None Include="Resources\apps_tab_24px.png" />
+    <None Include="Resources\error_40px.png" />
+    <None Include="Resources\a_5e6922771d54e8b639ca0d509cabf602.gif" />
+    <None Include="Resources\ezgif-7-0835fc5930eb.gif" />
+    <None Include="Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x1681.png" />
+    <None Include="Resources\al2nu-jkzm7-0072.png" />
+    <None Include="Resources\al2nu-jkzm7-0071.png" />
+    <None Include="Resources\ProcessHacker1.png" />
+    <None Include="Resources\7ziplogo.svg2.png" />
+    <None Include="Resources\4ca3bc4d28e97fe9f36f755458733449 %281%291.png" />
+    <None Include="Resources\PicsArt_05-02-102.png" />
+    <None Include="Resources\ds3_tool_64px.png" />
+    <None Include="Resources\desktop_52px.png" />
+    <None Include="Resources\save_52px.png" />
+    <None Include="Resources\nvidia_geforce_64px.png" />
+    <None Include="Resources\stepper_motor_52px.png" />
+    <None Include="Resources\game_controller_52px.png" />
+    <None Include="Resources\home_52px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Fody.6.5.1\build\Fody.targets" Condition="Exists('..\packages\Fody.6.5.1\build\Fody.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Fody.6.5.1\build\Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Fody.6.5.1\build\Fody.targets'))" />
+    <Error Condition="!Exists('..\packages\Costura.Fody.5.3.0\build\Costura.Fody.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Costura.Fody.5.3.0\build\Costura.Fody.props'))" />
+    <Error Condition="!Exists('..\packages\Costura.Fody.5.3.0\build\Costura.Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Costura.Fody.5.3.0\build\Costura.Fody.targets'))" />
+  </Target>
+  <Import Project="..\packages\Costura.Fody.5.3.0\build\Costura.Fody.targets" Condition="Exists('..\packages\Costura.Fody.5.3.0\build\Costura.Fody.targets')" />
+</Project>

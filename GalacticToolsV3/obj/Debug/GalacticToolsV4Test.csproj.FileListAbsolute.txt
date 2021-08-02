@@ -1,0 +1,142 @@
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe.config
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.pdb
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.dll
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Guna.UI2.dll
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Mouve.dll
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.pdb
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.xml
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Login.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.LoginSettings.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CopyComplete
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.pdb
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csprojAssemblyReference.cache
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe.config
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.pdb
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.dll
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.pdb
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.xml
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csprojAssemblyReference.cache
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Login.resources
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.LoginSettings.resources
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Properties.Resources.resources
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.GenerateResource.cache
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CoreCompileInputs.cache
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CopyComplete
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe
+C:\Users\instr\Music\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.pdb
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe.config
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.pdb
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.xml
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csprojAssemblyReference.cache
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Apps.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Login.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.LoginSettings.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CopyComplete
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.pdb
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Settings.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Games.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Emulators.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Launchers.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Downloadbar.resources
+C:\Users\HomeLaptopWin10\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.Fody.CopyLocal.cache
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe.config
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Apps.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.DownloadBar.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Error.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Welcome.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Emulators.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Games.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Launchers.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Properties.Resources.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Settings.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.GenerateResource.cache
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CoreCompileInputs.cache
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.pdb
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe.config
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.pdb
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.Fody.CopyLocal.cache
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CopyComplete
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Info.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe.config
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.pdb
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.xml
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csprojAssemblyReference.cache
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe.config
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Apps.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.DownloadBar.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Error.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Info.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Welcome.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Emulators.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Games.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Launchers.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Login.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.LoginSettings.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Properties.Resources.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Settings.resources
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.GenerateResource.cache
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CoreCompileInputs.cache
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.Fody.CopyLocal.cache
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CopyComplete
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.pdb
+C:\Users\instr\Desktop\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\NvAPIWrapper.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\NvAPIWrapper.xml
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe.config
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.exe
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\GalacticToolsV4Test.pdb
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\DiscordRPC.xml
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\NvAPIWrapper.xml
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csprojAssemblyReference.cache
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe.config
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Apps.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.DownloadBar.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Error.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Info.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Welcome.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Emulators.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Games.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Launchers.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Login.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Settings.resources
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.Fody.CopyLocal.cache
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csproj.CopyComplete
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.exe
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.pdb
+C:\Users\HomeLaptopWin10\source\repos\GTV3 source lsdasdad\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.LoginSettings.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.LoginSettings.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\bin\Debug\CircularProgressBar.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.csprojAssemblyReference.cache
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Coming_Soon.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.gay.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV4Test\GalacticToolsV4Test\obj\Debug\GalacticToolsV4Test.Startup.resources
