@@ -1794,6 +1794,16 @@ namespace GalacticToolsV3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap large {
+            get {
+                object obj = ResourceManager.GetObject("large", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo_epic_cb4399a7ee205610531057537937045e_128x129 {
             get {
                 object obj = ResourceManager.GetObject("logo-epic-cb4399a7ee205610531057537937045e_128x129", resourceCulture);

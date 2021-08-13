@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.IO.Compression;
@@ -18,6 +19,7 @@ namespace GalacticToolsV3
             Directory.CreateDirectory(@"C:\Galactic Launcher");
             Directory.CreateDirectory(@"C:\Galactic Launcher\UnFlaggedFiles");
         }
+     
         public string RandomGenerator()
         {
             var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -118,6 +120,7 @@ namespace GalacticToolsV3
 
         private void guna2Button3_Click(object sender, EventArgs e)
         {
+
             this.Hide();
             Games games = new Games();
             games.ShowDialog();
@@ -306,6 +309,8 @@ namespace GalacticToolsV3
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
+            
+
             this.Hide();
             Welcome welcome = new Welcome();
             welcome.ShowDialog();
@@ -314,38 +319,15 @@ namespace GalacticToolsV3
 
         private void guna2Button9_Click_2(object sender, EventArgs e)
         {
-            if (IblStatus.Visible == true)
-            {
-                IblStatus.Visible = false;
-            }
-            else
-            {
-                IblStatus.Visible = true;
-            }
-
-
-            if (progressBar.Visible == true)
-            {
-                progressBar.Visible = false;
-            }
-            else
-            {
-                progressBar.Visible = true;
-            }
-
-            WebClient webClient = new WebClient();
-            webClient.DownloadProgressChanged += DownloadProgressChanged;
-            webClient.DownloadFileCompleted += GEDownloadCompleted;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Explorer++.exe"), @"C:\\Galactic Launcher\\Explorer++.exe");
+            
         }
 
         private void guna2Button11_Click_1(object sender, EventArgs e)
-        {
-            
+        {        
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompleted69;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Moonlight.zip"), @"C:\\Galactic Launcher\\Moonlight.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/i3slvdf4m6d3z3h/Moonlight.zip?dl=1"), @"C:\\Galactic Launcher\\Moonlight.zip");
         }
 
         private void guna2Button8_Click_1(object sender, EventArgs e)
@@ -379,7 +361,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompleted233;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Spotify.zip"), @"C:\\Galactic Launcher\\Spotify.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/p295ng2fj2dps3a/Spotify%20%281%29.zip?dl=1"), @"C:\\Galactic Launcher\\Spotify.zip");
         }
         public void GEDownloadCompleted233(object sender, AsyncCompletedEventArgs e)
         {
@@ -404,7 +386,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompleted232;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Brave.zip"), @"C:\\Galactic Launcher\\Brave.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/nnxgu9gfqf39zvh/Brave.zip?dl=1"), @"C:\\Galactic Launcher\\Brave.zip");
 
         }
         public void GEDownloadCompleted232(object sender, AsyncCompletedEventArgs e)
@@ -447,27 +429,13 @@ namespace GalacticToolsV3
 
         public void GEDownloadCompleted231(object sender, AsyncCompletedEventArgs e)
         {
-            string chromepath = @"C:\Galactic Launcher\";
-            string chromeZipFile = @"C:\Galactic Launcher\Chrome.zip";
-
-            ZipFile.ExtractToDirectory(chromeZipFile, chromepath);
-
-            File.Delete(@"C:\Galactic Launcher\Chrome.zip");
-
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Chrome\GoogleChromePortable.exe");
-
-            guna2Button13.Text = "Installed";
-            guna2Button13.FillColor = Color.FromArgb(115, 115, 115);
-
-            guna2Button13.Enabled = false;
+            
         }
         private void guna2Button14_Click_1(object sender, EventArgs e)
         {
-        
-                WebClient webClient = new WebClient();
-                webClient.DownloadProgressChanged += DownloadProgressChanged;
-                webClient.DownloadFileCompleted += GEDownloadCompleted230;
-                webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/OBS%20Studio.zip"), @"C:\\Galactic Launcher\\OBS-Studio.zip");
+            Coming_Soon coming = new Coming_Soon();
+            coming = new Coming_Soon();
+                
         }
 
         private void guna2PictureBox13_Click(object sender, EventArgs e)
@@ -481,12 +449,11 @@ namespace GalacticToolsV3
         }
         
         private void guna2Button9_Click_1(object sender, EventArgs e)
-        { 
-
+        {
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedplusplus;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Explorer++.exe"), @"C:\\Galactic Launcher\Explorer++.exe");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/u6j5pgvkc00gv2x/Explorer%2B%2B.exe?dl=1"), @"C:\\Galactic Launcher\Explorer++.exe");
         }
         public void GEDownloadCompletedplusplus(object sender, AsyncCompletedEventArgs e)
         {
@@ -531,7 +498,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedexplorer;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Galactic_Explorer.exe"), @"C:\\Galactic Launcher\Galactic_Explorer.exe");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/re74swdc0ucjznl/Galactic_Explorer.exe?dl=1"), @"C:\\Galactic Launcher\Galactic_Explorer.exe");
         }
 
         private void guna2Button21_Click_1(object sender, EventArgs e)
@@ -548,7 +515,7 @@ namespace GalacticToolsV3
             guna2Button49.Text = "Installed";
             guna2Button49.FillColor = Color.FromArgb(115, 115, 115);
 
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\stemgae.exe");
+            Process.Start(@"C:\Galactic Launcher\stemgae.exe");
 
             guna2Button49.Enabled = false;
         }
@@ -558,10 +525,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompleted1;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Firefox.zip"), @"C:\\Galactic Launcher\FireFox.zip");
-
-            
-            
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/62rtctlxjxdm6u3/Firefox%20%281%29%20%282%29.zip?dl=1"), @"C:\\Galactic Launcher\FireFox.zip");       
         }
 
         private void guna2Button49_Click(object sender, EventArgs e)
@@ -590,12 +554,10 @@ namespace GalacticToolsV3
         }
         private void guna2Button50_Click(object sender, EventArgs e)
         {
-            
-
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompleted7zip;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/7-Zip.zip"), @"C:\\Galactic Launcher\7-Zip.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/2jwo0pocg31qy65/7-Zip.zip?dl=1"), @"C:\\Galactic Launcher\7-Zip.zip");
         }
         public void GEDownloadCompletedgtunzipper(object sender, AsyncCompletedEventArgs e)
         {
@@ -608,11 +570,10 @@ namespace GalacticToolsV3
         }
         private void guna2Button51_Click(object sender, EventArgs e)
         {
-
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedgtunzipper;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/GalacticUnzipper.exe"), @"C:\\Galactic Launcher\GalacticUnzipper.exe");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/dn9xlj194cx51ap/GalacticUnzipper.exe?dl=1"), @"C:\\Galactic Launcher\GalacticUnzipper.exe");
         }
         public void GEDownloadCompletedgimp(object sender, AsyncCompletedEventArgs e)
         {
@@ -636,31 +597,16 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedgimp;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Gimp.zip"), @"C:\\Galactic Launcher\Gimp.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/52ekvnz57teuokw/Gimp.zip?dl=1"), @"C:\\Galactic Launcher\Gimp.zip");
         }
         public void GEDownloadCompletedepic(object sender, AsyncCompletedEventArgs e)
         {
-            string epicpath = @"C:\Galactic Launcher\";
-            string epicZipFile = @"C:\Galactic Launcher\Epic Games.zip";
-
-            ZipFile.ExtractToDirectory(epicZipFile, epicpath);
-
-            File.Delete(@"C:\Galactic Launcher\Epic Games.zip");
-
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Epic Games\Launcher\Engine\Binaries\Win64\EpicGamesLauncher.exe");
-
-            guna2Button39.Text = "Installed";
-            guna2Button39.FillColor = Color.FromArgb(115, 115, 115);
-
-            guna2Button39.Enabled = false;
+            
         }
         private void guna2Button39_Click(object sender, EventArgs e)
         {
-            WebClient webClient = new WebClient();
-            webClient.DownloadProgressChanged += DownloadProgressChanged;
-            webClient.DownloadFileCompleted += GEDownloadCompletedepic;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Epic%20Games.zip"), @"C:\\Galactic Launcher\Epic Games.zip");
-
+            Coming_Soon coming = new Coming_Soon();
+            coming.ShowDialog();
         }
         public void GEDownloadCompletedorigin(object sender, AsyncCompletedEventArgs e)
         {
@@ -671,7 +617,7 @@ namespace GalacticToolsV3
 
             File.Delete(@"C:\Galactic Launcher\Origin.zip");
 
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Origin\Origin.exe");
+            Process.Start(@"C:\Galactic Launcher\Origin\Origin.exe");
 
             guna2Button54.Text = "Installed";
             guna2Button54.FillColor = Color.FromArgb(115, 115, 115);
@@ -687,7 +633,7 @@ namespace GalacticToolsV3
 
             File.Delete(@"C:\Galactic Launcher\Ubiosft Connect.zip");
 
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Origin\Origin.exe");
+            Process.Start(@"C:\Galactic Launcher\Origin\Origin.exe");
 
             guna2Button55.Text = "Installed";
             guna2Button55.FillColor = Color.FromArgb(115, 115, 115);
@@ -697,22 +643,19 @@ namespace GalacticToolsV3
 
         private void guna2Button54_Click(object sender, EventArgs e)
         {
-            
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedorigin;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Origin.zip"), @"C:\\Galactic Launcher\Origin.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/g82kgsyyvve67h6/Origin%20%281%29%20%282%29.zip?dl=1"), @"C:\\Galactic Launcher\Origin.zip");
 
         }
 
         private void guna2Button55_Click(object sender, EventArgs e)
         {
-          
-
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompleted420;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Ubisoft%20Connect.zip"), @"C:\\Galactic Launcher\Ubisoft Connect.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/qdoxd87j3z5s7k7/Ubisoft%20Connect.zip?dl=1"), @"C:\\Galactic Launcher\Ubisoft Connect.zip");
         }
 
         private void button1_Click_1(object sender, EventArgs e)
@@ -728,7 +671,7 @@ namespace GalacticToolsV3
 
             File.Delete(@"C:\Galactic Launcher\Galactic Tools Browser.zip");
 
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Galactic Tools Browser\Galactic Tools Browser.exe");
+            Process.Start(@"C:\Galactic Launcher\Galactic Tools Browser\Galactic Tools Browser.exe");
 
             guna2Button57.Text = "Installed";
             guna2Button57.FillColor = Color.FromArgb(115, 115, 115);
@@ -740,7 +683,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedlmao;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Galactic_Tools_Browser.zip"), @"C:\\Galactic Launcher\Galactic Tools Browser.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/jqeuxnbt6fu7w9n/Galactic_Tools_Browser%20%281%29.zip?dl=1"), @"C:\\Galactic Launcher\Galactic Tools Browser.zip");
         }
         public void GEDownloadCompletedlol(object sender, AsyncCompletedEventArgs e)
         {
@@ -751,7 +694,7 @@ namespace GalacticToolsV3
 
             File.Delete(@"C:\Galactic Launcher\Lightcord.zip");
 
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Lightcord\Lightcord.exe");
+            Process.Start(@"C:\Galactic Launcher\Lightcord\Lightcord.exe");
 
             guna2Button23.Text = "Installed";
             guna2Button23.FillColor = Color.FromArgb(115, 115, 115);
@@ -763,7 +706,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedlol;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Lightcord.zip"), @"C:\\Galactic Launcher\Lightcord.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/4pj6sj98ol9yb3n/Lightcord.zip?dl=1"), @"C:\\Galactic Launcher\Lightcord.zip");
 
         }
         public void GEDownloadCompleted16(object sender, AsyncCompletedEventArgs e)
@@ -778,7 +721,7 @@ namespace GalacticToolsV3
         }
         public void GEDownloadCompletedanydesk(object sender, AsyncCompletedEventArgs e)
         {
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Anydesk.exe");
+            Process.Start(@"C:\Galactic Launcher\Anydesk.exe");
 
             guna2Button59.Text = "Installed";
             guna2Button59.FillColor = Color.FromArgb(115, 115, 115);
@@ -790,40 +733,33 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedanydesk;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/AnyDesk.exe"), @"C:\\Galactic Launcher\Anydesk.exe");
+            webClient.DownloadFileAsync(new Uri("https://download.anydesk.com/AnyDesk.exe?_ga=2.78880276.1439147050.1628212700-1056263199.1624992106&_gac=1.183357908.1626581388.Cj0KCQjw_8mHBhClARIsABfFgpicSgXR9EfhG6QKZ1niCXy82TKMySTnSGAnUa9d_vI3X_-V0E02G7UaAsKyEALw_wcB"), @"C:\\Galactic Launcher\Anydesk.exe");
 
         }
         public void GEDownloadCompletedopera(object sender, AsyncCompletedEventArgs e)
         {
-            string operapath = @"C:\Galactic Launcher\";
-            string operaZipFile = @"C:\Galactic Launcher\OperaGX.zip";
-
-            ZipFile.ExtractToDirectory(operaZipFile, operapath);
-
-            File.Delete(@"C:\Galactic Launcher\OperaGX.zip");
-
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\OperaGX\launcher.exe");
-
-            guna2Button60.Text = "Installed";
-            guna2Button60.FillColor = Color.FromArgb(115, 115, 115);
-
-            guna2Button60.Enabled = false;
+            
         }
         private void guna2Button60_Click(object sender, EventArgs e)
         {
-            WebClient webClient = new WebClient();
-            webClient.DownloadProgressChanged += DownloadProgressChanged;
-            webClient.DownloadFileCompleted += GEDownloadCompletedopera;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/OperaGX%20(1).zip"), @"C:\\Galactic Launcher\OperaGX.zip");
+            Coming_Soon coming = new Coming_Soon();
+            coming.ShowDialog();
         }
         public void GEDownloadCompletedhacker(object sender, AsyncCompletedEventArgs e)
         {
+            string hackerpath = @"C:\Galactic Launcher\";
+            string hackerZipFile = @"C:\Galactic Launcher\ProcessHacker.zip";
+
+            ZipFile.ExtractToDirectory(hackerZipFile, hackerpath);
+
+            File.Delete(@"C:\Galactic Launcher\ProcessHacker.zip");
+
+            Process.Start(@"C:\Galactic Launcher\ProcessHacker\ProcessHacker.exe");
+
             guna2Button61.Text = "Installed";
             guna2Button61.FillColor = Color.FromArgb(115, 115, 115);
 
             guna2Button61.Enabled = false;
-
-            MessageBox.Show("Please extract manually in C:/Galactic Launcher/ProcessHacker.zip");
         }
         private void guna2Button61_Click(object sender, EventArgs e)
         {
@@ -831,11 +767,11 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedhacker;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/proshac.zip"), @"C:\\Galactic Launcher\ProcessHacker.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/pvqkukh2lnxm3cs/ProcessHacker.zip?dl=1"), @"C:\\Galactic Launcher\ProcessHacker.zip");
         }
         public void GEDownloadCompletedcmd(object sender, AsyncCompletedEventArgs e)
         {
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\cmdbypass.exe");
+            Process.Start(@"C:\Galactic Launcher\cmdbypass.exe");
 
             guna2Button62.Text = "Installed";
             guna2Button62.FillColor = Color.FromArgb(115, 115, 115);
@@ -847,18 +783,11 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedcmd;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/NotCMDNvidia.exe"), @"C:\\Galactic Launcher\cmdbypass.exe");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/pdqcv6uhceasb5k/NotCMDNvidia.exe?dl=1"), @"C:\\Galactic Launcher\cmdbypass.exe");
         }
         public void GEDownloadCompletednote(object sender, AsyncCompletedEventArgs e)
         {
-            string notepath = @"C:\Galactic Launcher\";
-            string noteZipFile = @"C:\Galactic Launcher\Notepad++.zip";
-
-            ZipFile.ExtractToDirectory(noteZipFile, notepath);
-
-            File.Delete(@"C:\Galactic Launcher\Notepad++.zip");
-
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Notepad++\Notepad++Portable.exe");
+            Process.Start(@"C:\Galactic Launcher\Notepad2x64.exe");
 
             guna2Button63.Text = "Installed";
             guna2Button63.FillColor = Color.FromArgb(115, 115, 115);
@@ -870,7 +799,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletednote;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Notepad++.zip"), @"C:\\Galactic Launcher\Notepad++.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/ge6gv0o13huczpb/Notepad2x64.exe?dl=1"), @"C:\\Galactic Launcher\Notepad2x64.exe");
         }
         public void GEDownloadCompletedtask(object sender, AsyncCompletedEventArgs e)
         {
@@ -881,7 +810,7 @@ namespace GalacticToolsV3
 
             File.Delete(@"C:\Galactic Launcher\Galactic Task Manager.zip");
 
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\Galactic Task Manager\Galactic Task Manager.exe");
+            Process.Start(@"C:\Galactic Launcher\Galactic Task Manager\Galactic Task Manager.exe");
 
             guna2Button64.Text = "Installed";
             guna2Button64.FillColor = Color.FromArgb(115, 115, 115);
@@ -893,11 +822,11 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedtask;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Galactic_Task_Manager.zip"), @"C:\\Galactic Launcher\Galactic Task Manager.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/2xxg2paz4z9shh9/Galactic_Task_Manager.zip?dl=1"), @"C:\\Galactic Launcher\Galactic Task Manager.zip");
         }
         public void GEDownloadCompletednet(object sender, AsyncCompletedEventArgs e)
         {
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\RegCool.exe");
+            Process.Start(@"C:\Galactic Launcher\RegCool.exe");
 
             guna2Button66.Text = "Installed";
             guna2Button66.FillColor = Color.FromArgb(115, 115, 115);
@@ -909,7 +838,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletednet;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/RegCool.exe"), @"C:\\Galactic Launcher\RegCool.exe");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/fvliriy9cqy8srp/RegCool.exe?dl=1"), @"C:\\Galactic Launcher\RegCool.exe");
         }
         public void GEDownloadCompletedshell(object sender, AsyncCompletedEventArgs e)
         {
@@ -920,7 +849,7 @@ namespace GalacticToolsV3
 
             File.Delete(@"C:\Galactic Launcher\WinXShell.zip");
 
-            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\WinXShellGT\WinXShell\start.bat");
+            System.Diagnostics.Process.Start(@"C:\Galactic Launcher\WinXShell\start.bat");
 
             guna2Button68.Text = "Launched";
             guna2Button68.FillColor = Color.FromArgb(115, 115, 115);
@@ -932,7 +861,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedshell;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/Galactic_Tools_Desktop.zip"), @"C:\\Galactic Launcher\WinXShell.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/eoimr52z6nf7qwr/WinXShell%20%281%29.zip?dl=1"), @"C:\\Galactic Launcher\WinXShell.zip");
 
         }
         public void GEDownloadCompletedctrl(object sender, AsyncCompletedEventArgs e)
@@ -949,7 +878,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedctrl;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/CtrlTab%20(2).exe"), @"C:\\Galactic Launcher\Ctrl+Tab.exe");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/fhxsznk8rpnzx1x/CtrlTab%20%282%29.exe?dl=1"), @"C:\\Galactic Launcher\Ctrl+Tab.exe");
         }
         public void GEDownloadCompletedtorrent(object sender, AsyncCompletedEventArgs e)
         {
@@ -972,7 +901,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedtorrent;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/qBitTorrent.zip"), @"C:\\Galactic Launcher\qBitTorrent.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/62cinz1ylyiu6vc/qBitTorrent.zip?dl=1"), @"C:\\Galactic Launcher\qBitTorrent.zip");
         }
 
         private void guna2PictureBox24_Click(object sender, EventArgs e)
@@ -1063,7 +992,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedcopy;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/copy%20paste%20gfn.ahk"), @"C:\\Galactic Launcher\copy paste gfn.ahk");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/oxa89bgoa2tc94o/copy%20paste%20gfn%20%281%29.ahk?dl=1"), @"C:\\Galactic Launcher\copy paste gfn.ahk");
         }
         public void GEDownloadCompletedteam(object sender, AsyncCompletedEventArgs e)
         {
@@ -1086,7 +1015,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedteam;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/TeamViewer%20(1).zip"), @"C:\\Galactic Launcher\TeamViewer.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/fa9ettndfcmy8s0/TeamViewer%20%281%29.zip?dl=1"), @"C:\\Galactic Launcher\TeamViewer.zip");
         }
         public void GEDownloadCompletediso(object sender, AsyncCompletedEventArgs e)
         {
@@ -1109,7 +1038,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletediso;
-            webClient.DownloadFileAsync(new Uri("https://picteon.dev/files/PowerISO.zip"), @"C:\\Galactic Launcher\PowerISO.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/otjlyz081eq3fam/PowerISO.zip?dl=1"), @"C:\\Galactic Launcher\PowerISO.zip");
         }
         public void GEDownloadCompletedvscode(object sender, AsyncCompletedEventArgs e)
         {
@@ -1133,7 +1062,7 @@ namespace GalacticToolsV3
             WebClient webClient = new WebClient();
             webClient.DownloadProgressChanged += DownloadProgressChanged;
             webClient.DownloadFileCompleted += GEDownloadCompletedvscode;
-            webClient.DownloadFileAsync(new Uri("https://cdn.discordapp.com/attachments/761600142214168588/761604114709741638/VS_Code.zip"), @"C:\\Galactic Launcher\VS_Code.zip");
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/8s0ugwo4jc8sue1/VS_Code.zip?dl=1"), @"C:\\Galactic Launcher\VS_Code.zip");
         }
     
 
@@ -1152,6 +1081,39 @@ namespace GalacticToolsV3
         {
             
             
+        }
+
+        private void guna2ShadowPanel15_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+        public void GEDownloadCompletedsony(object sender, AsyncCompletedEventArgs e)
+        {
+            string sonypath = @"C:\Galactic Launcher\";
+            string sonyZipFile = @"C:\Galactic Launcher\SonyVegas.zip";
+
+            ZipFile.ExtractToDirectory(sonyZipFile, sonypath);
+
+            File.Delete(@"C:\Galactic Launcher\SonyVegas.zip");
+
+            //Process.Start(@"C:\Galactic Launcher\VS Code\vscode-portable.exe");
+
+            guna2Button71.Text = "Installed";
+            guna2Button71.FillColor = Color.FromArgb(115, 115, 115);
+
+            guna2Button71.Enabled = false;
+        }
+        private void guna2Button71_Click(object sender, EventArgs e)
+        {
+            WebClient webClient = new WebClient();
+            webClient.DownloadProgressChanged += DownloadProgressChanged;
+            webClient.DownloadFileCompleted += GEDownloadCompletedsony;
+            webClient.DownloadFileAsync(new Uri("https://www.dropbox.com/s/qs0fo0qsxu630ag/VegasPro16.0.zip?dl=1"), @"C:\\Galactic Launcher\SonyVegas.zip");
+        }
+
+        private void guna2ShadowPanel18_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

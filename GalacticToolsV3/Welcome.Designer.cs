@@ -146,7 +146,7 @@ namespace GalacticToolsV3
             this.guna2Panel1.Controls.Add(this.label2);
             this.guna2Panel1.Controls.Add(this.label9);
             this.guna2Panel1.Controls.Add(this.label12);
-            this.guna2Panel1.Location = new System.Drawing.Point(46, 45);
+            this.guna2Panel1.Location = new System.Drawing.Point(50, 45);
             this.guna2Panel1.Name = "guna2Panel1";
             this.guna2Panel1.ShadowDecoration.Parent = this.guna2Panel1;
             this.guna2Panel1.Size = new System.Drawing.Size(1011, 552);
@@ -176,7 +176,7 @@ namespace GalacticToolsV3
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(232, 491);
+            this.label5.Location = new System.Drawing.Point(231, 491);
             this.label5.MaximumSize = new System.Drawing.Size(500, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(176, 25);
@@ -188,7 +188,7 @@ namespace GalacticToolsV3
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe UI Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(622, 491);
+            this.label6.Location = new System.Drawing.Point(623, 491);
             this.label6.MaximumSize = new System.Drawing.Size(500, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(128, 25);
@@ -203,9 +203,9 @@ namespace GalacticToolsV3
             this.label8.Location = new System.Drawing.Point(365, 198);
             this.label8.MaximumSize = new System.Drawing.Size(500, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(210, 25);
+            this.label8.Size = new System.Drawing.Size(208, 25);
             this.label8.TabIndex = 125;
-            this.label8.Text = "Last Update On : 7/26/21";
+            this.label8.Text = "Last Update On : 8/13/21";
             // 
             // label7
             // 
@@ -217,12 +217,13 @@ namespace GalacticToolsV3
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(118, 25);
             this.label7.TabIndex = 119;
-            this.label7.Text = "Version : V3.5";
+            this.label7.Text = "Version : V3.6";
             this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // guna2CirclePictureBox4
             // 
             this.guna2CirclePictureBox4.Image = global::GalacticToolsV3.Properties.Resources.a_df92d8ce3fa9dba25b72cfc7fda42b40;
+            this.guna2CirclePictureBox4.ImageRotate = 0F;
             this.guna2CirclePictureBox4.Location = new System.Drawing.Point(576, 255);
             this.guna2CirclePictureBox4.Name = "guna2CirclePictureBox4";
             this.guna2CirclePictureBox4.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -235,6 +236,7 @@ namespace GalacticToolsV3
             // guna2CirclePictureBox3
             // 
             this.guna2CirclePictureBox3.Image = global::GalacticToolsV3.Properties.Resources.ezgif_7_0835fc5930eb;
+            this.guna2CirclePictureBox3.ImageRotate = 0F;
             this.guna2CirclePictureBox3.Location = new System.Drawing.Point(211, 255);
             this.guna2CirclePictureBox3.Name = "guna2CirclePictureBox3";
             this.guna2CirclePictureBox3.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -271,6 +273,7 @@ namespace GalacticToolsV3
             // guna2CirclePictureBox1
             // 
             this.guna2CirclePictureBox1.Image = global::GalacticToolsV3.Properties.Resources._4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x1681;
+            this.guna2CirclePictureBox1.ImageRotate = 0F;
             this.guna2CirclePictureBox1.Location = new System.Drawing.Point(145, 47);
             this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
             this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -331,6 +334,7 @@ namespace GalacticToolsV3
             this.guna2CircleButton2.Animated = true;
             this.guna2CircleButton2.CheckedState.Parent = this.guna2CircleButton2;
             this.guna2CircleButton2.CustomImages.Parent = this.guna2CircleButton2;
+            this.guna2CircleButton2.DisabledState.Parent = this.guna2CircleButton2;
             this.guna2CircleButton2.FillColor = System.Drawing.Color.Transparent;
             this.guna2CircleButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2CircleButton2.ForeColor = System.Drawing.Color.White;
@@ -350,6 +354,7 @@ namespace GalacticToolsV3
             this.guna2CircleButton1.Animated = true;
             this.guna2CircleButton1.CheckedState.Parent = this.guna2CircleButton1;
             this.guna2CircleButton1.CustomImages.Parent = this.guna2CircleButton1;
+            this.guna2CircleButton1.DisabledState.Parent = this.guna2CircleButton1;
             this.guna2CircleButton1.FillColor = System.Drawing.Color.Transparent;
             this.guna2CircleButton1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2CircleButton1.ForeColor = System.Drawing.Color.White;
@@ -369,6 +374,7 @@ namespace GalacticToolsV3
             this.guna2Button10.Animated = true;
             this.guna2Button10.CheckedState.Parent = this.guna2Button10;
             this.guna2Button10.CustomImages.Parent = this.guna2Button10;
+            this.guna2Button10.DisabledState.Parent = this.guna2Button10;
             this.guna2Button10.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button10.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button10.ForeColor = System.Drawing.Color.White;
@@ -387,6 +393,7 @@ namespace GalacticToolsV3
             this.guna2Button7.Animated = true;
             this.guna2Button7.CheckedState.Parent = this.guna2Button7;
             this.guna2Button7.CustomImages.Parent = this.guna2Button7;
+            this.guna2Button7.DisabledState.Parent = this.guna2Button7;
             this.guna2Button7.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button7.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button7.ForeColor = System.Drawing.Color.White;
@@ -405,6 +412,7 @@ namespace GalacticToolsV3
             this.guna2Button4.Animated = true;
             this.guna2Button4.CheckedState.Parent = this.guna2Button4;
             this.guna2Button4.CustomImages.Parent = this.guna2Button4;
+            this.guna2Button4.DisabledState.Parent = this.guna2Button4;
             this.guna2Button4.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button4.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button4.ForeColor = System.Drawing.Color.White;
@@ -423,6 +431,7 @@ namespace GalacticToolsV3
             this.guna2Button6.Animated = true;
             this.guna2Button6.CheckedState.Parent = this.guna2Button6;
             this.guna2Button6.CustomImages.Parent = this.guna2Button6;
+            this.guna2Button6.DisabledState.Parent = this.guna2Button6;
             this.guna2Button6.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button6.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button6.ForeColor = System.Drawing.Color.White;
@@ -441,6 +450,7 @@ namespace GalacticToolsV3
             this.guna2Button5.Animated = true;
             this.guna2Button5.CheckedState.Parent = this.guna2Button5;
             this.guna2Button5.CustomImages.Parent = this.guna2Button5;
+            this.guna2Button5.DisabledState.Parent = this.guna2Button5;
             this.guna2Button5.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button5.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button5.ForeColor = System.Drawing.Color.White;
@@ -459,6 +469,7 @@ namespace GalacticToolsV3
             this.guna2Button3.Animated = true;
             this.guna2Button3.CheckedState.Parent = this.guna2Button3;
             this.guna2Button3.CustomImages.Parent = this.guna2Button3;
+            this.guna2Button3.DisabledState.Parent = this.guna2Button3;
             this.guna2Button3.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button3.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button3.ForeColor = System.Drawing.Color.White;
@@ -477,6 +488,7 @@ namespace GalacticToolsV3
             this.guna2Button2.Animated = true;
             this.guna2Button2.CheckedState.Parent = this.guna2Button2;
             this.guna2Button2.CustomImages.Parent = this.guna2Button2;
+            this.guna2Button2.DisabledState.Parent = this.guna2Button2;
             this.guna2Button2.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button2.ForeColor = System.Drawing.Color.White;
@@ -494,6 +506,7 @@ namespace GalacticToolsV3
             // 
             this.guna2CirclePictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
             this.guna2CirclePictureBox2.Image = global::GalacticToolsV3.Properties.Resources._4ca3bc4d28e97fe9f36f755458733449_1_161x154_40x40;
+            this.guna2CirclePictureBox2.ImageRotate = 0F;
             this.guna2CirclePictureBox2.Location = new System.Drawing.Point(5, 5);
             this.guna2CirclePictureBox2.Name = "guna2CirclePictureBox2";
             this.guna2CirclePictureBox2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;

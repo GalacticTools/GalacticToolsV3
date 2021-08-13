@@ -121,17 +121,10 @@ namespace GalacticToolsV3
             
         }
 
-        private void CLose_Click(object sender, EventArgs e)
+        private void Cose_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void guna2CircleButton1_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            LoginSettings loginsettings = new LoginSettings();
-            loginsettings.ShowDialog();
-            this.Close();
-        }
     }
 }

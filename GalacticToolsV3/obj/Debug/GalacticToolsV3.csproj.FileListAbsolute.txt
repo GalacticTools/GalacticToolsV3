@@ -9,9 +9,7 @@ C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\G
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Apps.resources
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Coming_Soon.resources
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Error.resources
-C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.gay.resources
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Info.resources
-C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.LoginSettings.resources
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Welcome.resources
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Emulators.resources
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Games.resources
