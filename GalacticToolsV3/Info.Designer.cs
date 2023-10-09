@@ -35,7 +35,6 @@ namespace GalacticToolsV3
             this.CLose = new Guna.UI2.WinForms.Guna2ControlBox();
             this.MInimize = new Guna.UI2.WinForms.Guna2ControlBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.guna2CirclePictureBox2 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2DragControl1 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.timer1 = new System.Windows.Forms.Timer(this.components);
@@ -44,21 +43,13 @@ namespace GalacticToolsV3
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.label17 = new System.Windows.Forms.Label();
             this.guna2CircleProgressBar1 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
-            this.guna2PictureBox9 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.label16 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
-            this.guna2PictureBox8 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.panel4 = new System.Windows.Forms.Panel();
             this.label14 = new System.Windows.Forms.Label();
-            this.guna2PictureBox7 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.label13 = new System.Windows.Forms.Label();
             this.timeboi = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.guna2PictureBox6 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2PictureBox4 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2PictureBox5 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
@@ -71,14 +62,20 @@ namespace GalacticToolsV3
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2ShadowForm1 = new Guna.UI2.WinForms.Guna2ShadowForm(this.components);
-            this.guna2ContextMenuStrip1 = new Guna.UI2.WinForms.Guna2ContextMenuStrip();
             this.CPU = new System.Diagnostics.PerformanceCounter();
             this.timer3 = new System.Windows.Forms.Timer(this.components);
             this.guna2AnimateWindow1 = new Guna.UI2.WinForms.Guna2AnimateWindow(this.components);
+            this.guna2PictureBox9 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2PictureBox8 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2PictureBox7 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2PictureBox6 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2PictureBox4 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2PictureBox5 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button6 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button7 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button12 = new Guna.UI2.WinForms.Guna2Button();
@@ -96,9 +93,10 @@ namespace GalacticToolsV3
             this.guna2Button65 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2CircleButton2 = new Guna.UI2.WinForms.Guna2CircleButton();
             this.guna2CircleButton1 = new Guna.UI2.WinForms.Guna2CircleButton();
+            this.guna2CirclePictureBox2 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.panel69.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).BeginInit();
             this.guna2Panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.CPU)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox7)).BeginInit();
@@ -108,7 +106,7 @@ namespace GalacticToolsV3
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.CPU)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // panel69
@@ -128,11 +126,9 @@ namespace GalacticToolsV3
             this.CLose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.CLose.BackColor = System.Drawing.Color.Transparent;
             this.CLose.FillColor = System.Drawing.Color.Transparent;
-            this.CLose.HoverState.Parent = this.CLose;
             this.CLose.IconColor = System.Drawing.Color.DimGray;
             this.CLose.Location = new System.Drawing.Point(1021, 9);
             this.CLose.Name = "CLose";
-            this.CLose.ShadowDecoration.Parent = this.CLose;
             this.CLose.Size = new System.Drawing.Size(29, 29);
             this.CLose.TabIndex = 128;
             // 
@@ -143,11 +139,9 @@ namespace GalacticToolsV3
             this.MInimize.BorderColor = System.Drawing.Color.Transparent;
             this.MInimize.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
             this.MInimize.FillColor = System.Drawing.Color.Transparent;
-            this.MInimize.HoverState.Parent = this.MInimize;
             this.MInimize.IconColor = System.Drawing.Color.DimGray;
             this.MInimize.Location = new System.Drawing.Point(986, 9);
             this.MInimize.Name = "MInimize";
-            this.MInimize.ShadowDecoration.Parent = this.MInimize;
             this.MInimize.Size = new System.Drawing.Size(29, 29);
             this.MInimize.TabIndex = 127;
             // 
@@ -162,18 +156,6 @@ namespace GalacticToolsV3
             this.label1.TabIndex = 126;
             this.label1.Text = "Info";
             // 
-            // guna2CirclePictureBox2
-            // 
-            this.guna2CirclePictureBox2.Image = global::GalacticToolsV3.Properties.Resources._4ca3bc4d28e97fe9f36f755458733449_1_161x154_40x40;
-            this.guna2CirclePictureBox2.ImageRotate = 0F;
-            this.guna2CirclePictureBox2.Location = new System.Drawing.Point(3, 1);
-            this.guna2CirclePictureBox2.Name = "guna2CirclePictureBox2";
-            this.guna2CirclePictureBox2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox2.ShadowDecoration.Parent = this.guna2CirclePictureBox2;
-            this.guna2CirclePictureBox2.Size = new System.Drawing.Size(40, 40);
-            this.guna2CirclePictureBox2.TabIndex = 115;
-            this.guna2CirclePictureBox2.TabStop = false;
-            // 
             // guna2Elipse1
             // 
             this.guna2Elipse1.BorderRadius = 20;
@@ -182,7 +164,9 @@ namespace GalacticToolsV3
             // guna2DragControl1
             // 
             this.guna2DragControl1.ContainerControl = this;
+            this.guna2DragControl1.DockIndicatorTransparencyValue = 0.6D;
             this.guna2DragControl1.TargetControl = this.panel69;
+            this.guna2DragControl1.UseTransparentDrag = true;
             // 
             // timer1
             // 
@@ -235,7 +219,6 @@ namespace GalacticToolsV3
             this.guna2Panel1.Controls.Add(this.guna2PictureBox1);
             this.guna2Panel1.Location = new System.Drawing.Point(45, 47);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.ShadowDecoration.Parent = this.guna2Panel1;
             this.guna2Panel1.Size = new System.Drawing.Size(1018, 548);
             this.guna2Panel1.TabIndex = 185;
             this.guna2Panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel1_Paint);
@@ -254,6 +237,7 @@ namespace GalacticToolsV3
             // 
             // guna2CircleProgressBar1
             // 
+            this.guna2CircleProgressBar1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
             this.guna2CircleProgressBar1.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2CircleProgressBar1.ForeColor = System.Drawing.Color.White;
             this.guna2CircleProgressBar1.Location = new System.Drawing.Point(711, 93);
@@ -262,21 +246,8 @@ namespace GalacticToolsV3
             this.guna2CircleProgressBar1.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.guna2CircleProgressBar1.ProgressColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.guna2CircleProgressBar1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CircleProgressBar1.ShadowDecoration.Parent = this.guna2CircleProgressBar1;
             this.guna2CircleProgressBar1.Size = new System.Drawing.Size(196, 196);
             this.guna2CircleProgressBar1.TabIndex = 212;
-            // 
-            // guna2PictureBox9
-            // 
-            this.guna2PictureBox9.Image = global::GalacticToolsV3.Properties.Resources.versions_24px;
-            this.guna2PictureBox9.ImageRotate = 0F;
-            this.guna2PictureBox9.Location = new System.Drawing.Point(14, 500);
-            this.guna2PictureBox9.Name = "guna2PictureBox9";
-            this.guna2PictureBox9.ShadowDecoration.Parent = this.guna2PictureBox9;
-            this.guna2PictureBox9.Size = new System.Drawing.Size(31, 31);
-            this.guna2PictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.guna2PictureBox9.TabIndex = 211;
-            this.guna2PictureBox9.TabStop = false;
             // 
             // label16
             // 
@@ -287,7 +258,7 @@ namespace GalacticToolsV3
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(43, 30);
             this.label16.TabIndex = 210;
-            this.label16.Text = "3.6";
+            this.label16.Text = "3.9";
             this.label16.Click += new System.EventHandler(this.label16_Click);
             // 
             // label15
@@ -300,18 +271,6 @@ namespace GalacticToolsV3
             this.label15.Size = new System.Drawing.Size(119, 37);
             this.label15.TabIndex = 209;
             this.label15.Text = "Version:";
-            // 
-            // guna2PictureBox8
-            // 
-            this.guna2PictureBox8.Image = global::GalacticToolsV3.Properties.Resources.clock_24px;
-            this.guna2PictureBox8.ImageRotate = 0F;
-            this.guna2PictureBox8.Location = new System.Drawing.Point(14, 443);
-            this.guna2PictureBox8.Name = "guna2PictureBox8";
-            this.guna2PictureBox8.ShadowDecoration.Parent = this.guna2PictureBox8;
-            this.guna2PictureBox8.Size = new System.Drawing.Size(31, 31);
-            this.guna2PictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.guna2PictureBox8.TabIndex = 208;
-            this.guna2PictureBox8.TabStop = false;
             // 
             // panel4
             // 
@@ -331,18 +290,6 @@ namespace GalacticToolsV3
             this.label14.Size = new System.Drawing.Size(255, 37);
             this.label14.TabIndex = 207;
             this.label14.Text = "Launcher Up Time:";
-            // 
-            // guna2PictureBox7
-            // 
-            this.guna2PictureBox7.Image = global::GalacticToolsV3.Properties.Resources.application_window_32px;
-            this.guna2PictureBox7.ImageRotate = 0F;
-            this.guna2PictureBox7.Location = new System.Drawing.Point(27, 375);
-            this.guna2PictureBox7.Name = "guna2PictureBox7";
-            this.guna2PictureBox7.ShadowDecoration.Parent = this.guna2PictureBox7;
-            this.guna2PictureBox7.Size = new System.Drawing.Size(31, 31);
-            this.guna2PictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.guna2PictureBox7.TabIndex = 206;
-            this.guna2PictureBox7.TabStop = false;
             // 
             // label13
             // 
@@ -374,66 +321,6 @@ namespace GalacticToolsV3
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(990, 1);
             this.panel3.TabIndex = 188;
-            // 
-            // guna2PictureBox6
-            // 
-            this.guna2PictureBox6.Image = global::GalacticToolsV3.Properties.Resources.clock_24px;
-            this.guna2PictureBox6.ImageRotate = 0F;
-            this.guna2PictureBox6.Location = new System.Drawing.Point(14, 141);
-            this.guna2PictureBox6.Name = "guna2PictureBox6";
-            this.guna2PictureBox6.ShadowDecoration.Parent = this.guna2PictureBox6;
-            this.guna2PictureBox6.Size = new System.Drawing.Size(31, 31);
-            this.guna2PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.guna2PictureBox6.TabIndex = 203;
-            this.guna2PictureBox6.TabStop = false;
-            // 
-            // guna2PictureBox4
-            // 
-            this.guna2PictureBox4.Image = global::GalacticToolsV3.Properties.Resources.micro_sd_50px;
-            this.guna2PictureBox4.ImageRotate = 0F;
-            this.guna2PictureBox4.Location = new System.Drawing.Point(15, 316);
-            this.guna2PictureBox4.Name = "guna2PictureBox4";
-            this.guna2PictureBox4.ShadowDecoration.Parent = this.guna2PictureBox4;
-            this.guna2PictureBox4.Size = new System.Drawing.Size(31, 31);
-            this.guna2PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2PictureBox4.TabIndex = 202;
-            this.guna2PictureBox4.TabStop = false;
-            // 
-            // guna2PictureBox5
-            // 
-            this.guna2PictureBox5.Image = global::GalacticToolsV3.Properties.Resources.video_card_32px;
-            this.guna2PictureBox5.ImageRotate = 0F;
-            this.guna2PictureBox5.Location = new System.Drawing.Point(14, 256);
-            this.guna2PictureBox5.Name = "guna2PictureBox5";
-            this.guna2PictureBox5.ShadowDecoration.Parent = this.guna2PictureBox5;
-            this.guna2PictureBox5.Size = new System.Drawing.Size(31, 31);
-            this.guna2PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.guna2PictureBox5.TabIndex = 201;
-            this.guna2PictureBox5.TabStop = false;
-            // 
-            // guna2PictureBox3
-            // 
-            this.guna2PictureBox3.Image = global::GalacticToolsV3.Properties.Resources.processor_50px;
-            this.guna2PictureBox3.ImageRotate = 0F;
-            this.guna2PictureBox3.Location = new System.Drawing.Point(15, 200);
-            this.guna2PictureBox3.Name = "guna2PictureBox3";
-            this.guna2PictureBox3.ShadowDecoration.Parent = this.guna2PictureBox3;
-            this.guna2PictureBox3.Size = new System.Drawing.Size(28, 28);
-            this.guna2PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2PictureBox3.TabIndex = 200;
-            this.guna2PictureBox3.TabStop = false;
-            // 
-            // guna2PictureBox2
-            // 
-            this.guna2PictureBox2.Image = global::GalacticToolsV3.Properties.Resources.planner_24px;
-            this.guna2PictureBox2.ImageRotate = 0F;
-            this.guna2PictureBox2.Location = new System.Drawing.Point(14, 91);
-            this.guna2PictureBox2.Name = "guna2PictureBox2";
-            this.guna2PictureBox2.ShadowDecoration.Parent = this.guna2PictureBox2;
-            this.guna2PictureBox2.Size = new System.Drawing.Size(31, 31);
-            this.guna2PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.guna2PictureBox2.TabIndex = 199;
-            this.guna2PictureBox2.TabStop = false;
             // 
             // label5
             // 
@@ -567,35 +454,9 @@ namespace GalacticToolsV3
             this.panel1.Size = new System.Drawing.Size(990, 1);
             this.panel1.TabIndex = 186;
             // 
-            // guna2PictureBox1
-            // 
-            this.guna2PictureBox1.Image = global::GalacticToolsV3.Properties.Resources.workstation_30px1;
-            this.guna2PictureBox1.ImageRotate = 0F;
-            this.guna2PictureBox1.Location = new System.Drawing.Point(27, 24);
-            this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.ShadowDecoration.Parent = this.guna2PictureBox1;
-            this.guna2PictureBox1.Size = new System.Drawing.Size(31, 31);
-            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.guna2PictureBox1.TabIndex = 185;
-            this.guna2PictureBox1.TabStop = false;
-            // 
             // guna2ShadowForm1
             // 
             this.guna2ShadowForm1.TargetForm = this;
-            // 
-            // guna2ContextMenuStrip1
-            // 
-            this.guna2ContextMenuStrip1.Name = "guna2ContextMenuStrip1";
-            this.guna2ContextMenuStrip1.RenderStyle.ArrowColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
-            this.guna2ContextMenuStrip1.RenderStyle.BorderColor = System.Drawing.Color.Gainsboro;
-            this.guna2ContextMenuStrip1.RenderStyle.ColorTable = null;
-            this.guna2ContextMenuStrip1.RenderStyle.RoundedEdges = true;
-            this.guna2ContextMenuStrip1.RenderStyle.SelectionArrowColor = System.Drawing.Color.White;
-            this.guna2ContextMenuStrip1.RenderStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            this.guna2ContextMenuStrip1.RenderStyle.SelectionForeColor = System.Drawing.Color.White;
-            this.guna2ContextMenuStrip1.RenderStyle.SeparatorColor = System.Drawing.Color.Gainsboro;
-            this.guna2ContextMenuStrip1.RenderStyle.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
-            this.guna2ContextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
             // CPU
             // 
@@ -614,59 +475,129 @@ namespace GalacticToolsV3
             this.guna2AnimateWindow1.Interval = 100;
             this.guna2AnimateWindow1.TargetForm = this;
             // 
+            // guna2PictureBox9
+            // 
+            this.guna2PictureBox9.Image = global::GalacticToolsV3.Properties.Resources.versions_24px;
+            this.guna2PictureBox9.ImageRotate = 0F;
+            this.guna2PictureBox9.Location = new System.Drawing.Point(14, 500);
+            this.guna2PictureBox9.Name = "guna2PictureBox9";
+            this.guna2PictureBox9.Size = new System.Drawing.Size(31, 31);
+            this.guna2PictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.guna2PictureBox9.TabIndex = 211;
+            this.guna2PictureBox9.TabStop = false;
+            // 
+            // guna2PictureBox8
+            // 
+            this.guna2PictureBox8.Image = global::GalacticToolsV3.Properties.Resources.clock_24px;
+            this.guna2PictureBox8.ImageRotate = 0F;
+            this.guna2PictureBox8.Location = new System.Drawing.Point(14, 443);
+            this.guna2PictureBox8.Name = "guna2PictureBox8";
+            this.guna2PictureBox8.Size = new System.Drawing.Size(31, 31);
+            this.guna2PictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.guna2PictureBox8.TabIndex = 208;
+            this.guna2PictureBox8.TabStop = false;
+            // 
+            // guna2PictureBox7
+            // 
+            this.guna2PictureBox7.Image = global::GalacticToolsV3.Properties.Resources.application_window_32px;
+            this.guna2PictureBox7.ImageRotate = 0F;
+            this.guna2PictureBox7.Location = new System.Drawing.Point(27, 375);
+            this.guna2PictureBox7.Name = "guna2PictureBox7";
+            this.guna2PictureBox7.Size = new System.Drawing.Size(31, 31);
+            this.guna2PictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.guna2PictureBox7.TabIndex = 206;
+            this.guna2PictureBox7.TabStop = false;
+            // 
+            // guna2PictureBox6
+            // 
+            this.guna2PictureBox6.Image = global::GalacticToolsV3.Properties.Resources.clock_24px;
+            this.guna2PictureBox6.ImageRotate = 0F;
+            this.guna2PictureBox6.Location = new System.Drawing.Point(14, 141);
+            this.guna2PictureBox6.Name = "guna2PictureBox6";
+            this.guna2PictureBox6.Size = new System.Drawing.Size(31, 31);
+            this.guna2PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.guna2PictureBox6.TabIndex = 203;
+            this.guna2PictureBox6.TabStop = false;
+            // 
+            // guna2PictureBox4
+            // 
+            this.guna2PictureBox4.Image = global::GalacticToolsV3.Properties.Resources.micro_sd_50px;
+            this.guna2PictureBox4.ImageRotate = 0F;
+            this.guna2PictureBox4.Location = new System.Drawing.Point(15, 316);
+            this.guna2PictureBox4.Name = "guna2PictureBox4";
+            this.guna2PictureBox4.Size = new System.Drawing.Size(31, 31);
+            this.guna2PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2PictureBox4.TabIndex = 202;
+            this.guna2PictureBox4.TabStop = false;
+            // 
+            // guna2PictureBox5
+            // 
+            this.guna2PictureBox5.Image = global::GalacticToolsV3.Properties.Resources.video_card_32px;
+            this.guna2PictureBox5.ImageRotate = 0F;
+            this.guna2PictureBox5.Location = new System.Drawing.Point(14, 256);
+            this.guna2PictureBox5.Name = "guna2PictureBox5";
+            this.guna2PictureBox5.Size = new System.Drawing.Size(31, 31);
+            this.guna2PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.guna2PictureBox5.TabIndex = 201;
+            this.guna2PictureBox5.TabStop = false;
+            // 
+            // guna2PictureBox3
+            // 
+            this.guna2PictureBox3.Image = global::GalacticToolsV3.Properties.Resources.processor_50px;
+            this.guna2PictureBox3.ImageRotate = 0F;
+            this.guna2PictureBox3.Location = new System.Drawing.Point(15, 200);
+            this.guna2PictureBox3.Name = "guna2PictureBox3";
+            this.guna2PictureBox3.Size = new System.Drawing.Size(28, 28);
+            this.guna2PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2PictureBox3.TabIndex = 200;
+            this.guna2PictureBox3.TabStop = false;
+            // 
+            // guna2PictureBox2
+            // 
+            this.guna2PictureBox2.Image = global::GalacticToolsV3.Properties.Resources.planner_24px;
+            this.guna2PictureBox2.ImageRotate = 0F;
+            this.guna2PictureBox2.Location = new System.Drawing.Point(14, 91);
+            this.guna2PictureBox2.Name = "guna2PictureBox2";
+            this.guna2PictureBox2.Size = new System.Drawing.Size(31, 31);
+            this.guna2PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.guna2PictureBox2.TabIndex = 199;
+            this.guna2PictureBox2.TabStop = false;
+            // 
+            // guna2PictureBox1
+            // 
+            this.guna2PictureBox1.Image = global::GalacticToolsV3.Properties.Resources.workstation_30px1;
+            this.guna2PictureBox1.ImageRotate = 0F;
+            this.guna2PictureBox1.Location = new System.Drawing.Point(27, 24);
+            this.guna2PictureBox1.Name = "guna2PictureBox1";
+            this.guna2PictureBox1.Size = new System.Drawing.Size(31, 31);
+            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.guna2PictureBox1.TabIndex = 185;
+            this.guna2PictureBox1.TabStop = false;
+            // 
             // guna2Button2
             // 
             this.guna2Button2.Animated = true;
-            this.guna2Button2.CheckedState.Parent = this.guna2Button2;
-            this.guna2Button2.CustomImages.Parent = this.guna2Button2;
-            this.guna2Button2.DisabledState.Parent = this.guna2Button2;
             this.guna2Button2.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button2.ForeColor = System.Drawing.Color.White;
-            this.guna2Button2.HoverState.Parent = this.guna2Button2;
             this.guna2Button2.Image = global::GalacticToolsV3.Properties.Resources.unflag_50px1;
             this.guna2Button2.ImageSize = new System.Drawing.Size(25, 25);
-            this.guna2Button2.Location = new System.Drawing.Point(10, 351);
+            this.guna2Button2.Location = new System.Drawing.Point(9, 302);
             this.guna2Button2.Name = "guna2Button2";
-            this.guna2Button2.ShadowDecoration.Parent = this.guna2Button2;
             this.guna2Button2.Size = new System.Drawing.Size(30, 30);
             this.guna2Button2.TabIndex = 160;
             this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
-            // guna2Button4
-            // 
-            this.guna2Button4.Animated = true;
-            this.guna2Button4.CheckedState.Parent = this.guna2Button4;
-            this.guna2Button4.CustomImages.Parent = this.guna2Button4;
-            this.guna2Button4.DisabledState.Parent = this.guna2Button4;
-            this.guna2Button4.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button4.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.guna2Button4.ForeColor = System.Drawing.Color.White;
-            this.guna2Button4.HoverState.Parent = this.guna2Button4;
-            this.guna2Button4.Image = global::GalacticToolsV3.Properties.Resources.save_52px;
-            this.guna2Button4.ImageSize = new System.Drawing.Size(25, 25);
-            this.guna2Button4.Location = new System.Drawing.Point(10, 299);
-            this.guna2Button4.Name = "guna2Button4";
-            this.guna2Button4.ShadowDecoration.Parent = this.guna2Button4;
-            this.guna2Button4.Size = new System.Drawing.Size(30, 30);
-            this.guna2Button4.TabIndex = 159;
-            this.guna2Button4.Click += new System.EventHandler(this.guna2Button4_Click);
-            // 
             // guna2Button6
             // 
             this.guna2Button6.Animated = true;
-            this.guna2Button6.CheckedState.Parent = this.guna2Button6;
-            this.guna2Button6.CustomImages.Parent = this.guna2Button6;
-            this.guna2Button6.DisabledState.Parent = this.guna2Button6;
             this.guna2Button6.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button6.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button6.ForeColor = System.Drawing.Color.White;
-            this.guna2Button6.HoverState.Parent = this.guna2Button6;
             this.guna2Button6.Image = global::GalacticToolsV3.Properties.Resources.nvidia_geforce_64px;
             this.guna2Button6.ImageSize = new System.Drawing.Size(30, 30);
             this.guna2Button6.Location = new System.Drawing.Point(10, 252);
             this.guna2Button6.Name = "guna2Button6";
-            this.guna2Button6.ShadowDecoration.Parent = this.guna2Button6;
             this.guna2Button6.Size = new System.Drawing.Size(30, 30);
             this.guna2Button6.TabIndex = 158;
             this.guna2Button6.Click += new System.EventHandler(this.guna2Button6_Click);
@@ -674,18 +605,13 @@ namespace GalacticToolsV3
             // guna2Button7
             // 
             this.guna2Button7.Animated = true;
-            this.guna2Button7.CheckedState.Parent = this.guna2Button7;
-            this.guna2Button7.CustomImages.Parent = this.guna2Button7;
-            this.guna2Button7.DisabledState.Parent = this.guna2Button7;
             this.guna2Button7.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button7.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button7.ForeColor = System.Drawing.Color.White;
-            this.guna2Button7.HoverState.Parent = this.guna2Button7;
             this.guna2Button7.Image = global::GalacticToolsV3.Properties.Resources.ds3_tool_64px;
             this.guna2Button7.ImageSize = new System.Drawing.Size(30, 30);
             this.guna2Button7.Location = new System.Drawing.Point(10, 204);
             this.guna2Button7.Name = "guna2Button7";
-            this.guna2Button7.ShadowDecoration.Parent = this.guna2Button7;
             this.guna2Button7.Size = new System.Drawing.Size(30, 30);
             this.guna2Button7.TabIndex = 157;
             this.guna2Button7.Click += new System.EventHandler(this.guna2Button7_Click);
@@ -693,18 +619,13 @@ namespace GalacticToolsV3
             // guna2Button12
             // 
             this.guna2Button12.Animated = true;
-            this.guna2Button12.CheckedState.Parent = this.guna2Button12;
-            this.guna2Button12.CustomImages.Parent = this.guna2Button12;
-            this.guna2Button12.DisabledState.Parent = this.guna2Button12;
             this.guna2Button12.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button12.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button12.ForeColor = System.Drawing.Color.White;
-            this.guna2Button12.HoverState.Parent = this.guna2Button12;
             this.guna2Button12.Image = global::GalacticToolsV3.Properties.Resources.apps_tab_32px;
             this.guna2Button12.ImageSize = new System.Drawing.Size(30, 30);
             this.guna2Button12.Location = new System.Drawing.Point(10, 156);
             this.guna2Button12.Name = "guna2Button12";
-            this.guna2Button12.ShadowDecoration.Parent = this.guna2Button12;
             this.guna2Button12.Size = new System.Drawing.Size(30, 30);
             this.guna2Button12.TabIndex = 156;
             this.guna2Button12.Click += new System.EventHandler(this.guna2Button12_Click);
@@ -712,18 +633,13 @@ namespace GalacticToolsV3
             // guna2Button13
             // 
             this.guna2Button13.Animated = true;
-            this.guna2Button13.CheckedState.Parent = this.guna2Button13;
-            this.guna2Button13.CustomImages.Parent = this.guna2Button13;
-            this.guna2Button13.DisabledState.Parent = this.guna2Button13;
             this.guna2Button13.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button13.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button13.ForeColor = System.Drawing.Color.White;
-            this.guna2Button13.HoverState.Parent = this.guna2Button13;
             this.guna2Button13.Image = global::GalacticToolsV3.Properties.Resources.game_controller_52px;
             this.guna2Button13.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2Button13.Location = new System.Drawing.Point(10, 108);
             this.guna2Button13.Name = "guna2Button13";
-            this.guna2Button13.ShadowDecoration.Parent = this.guna2Button13;
             this.guna2Button13.Size = new System.Drawing.Size(30, 30);
             this.guna2Button13.TabIndex = 155;
             this.guna2Button13.Click += new System.EventHandler(this.guna2Button13_Click);
@@ -731,18 +647,13 @@ namespace GalacticToolsV3
             // guna2Button14
             // 
             this.guna2Button14.Animated = true;
-            this.guna2Button14.CheckedState.Parent = this.guna2Button14;
-            this.guna2Button14.CustomImages.Parent = this.guna2Button14;
-            this.guna2Button14.DisabledState.Parent = this.guna2Button14;
             this.guna2Button14.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button14.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button14.ForeColor = System.Drawing.Color.White;
-            this.guna2Button14.HoverState.Parent = this.guna2Button14;
             this.guna2Button14.Image = global::GalacticToolsV3.Properties.Resources.home_52px;
             this.guna2Button14.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2Button14.Location = new System.Drawing.Point(10, 60);
             this.guna2Button14.Name = "guna2Button14";
-            this.guna2Button14.ShadowDecoration.Parent = this.guna2Button14;
             this.guna2Button14.Size = new System.Drawing.Size(30, 30);
             this.guna2Button14.TabIndex = 154;
             this.guna2Button14.Click += new System.EventHandler(this.guna2Button14_Click);
@@ -750,19 +661,14 @@ namespace GalacticToolsV3
             // guna2CircleButton3
             // 
             this.guna2CircleButton3.Animated = true;
-            this.guna2CircleButton3.CheckedState.Parent = this.guna2CircleButton3;
-            this.guna2CircleButton3.CustomImages.Parent = this.guna2CircleButton3;
-            this.guna2CircleButton3.DisabledState.Parent = this.guna2CircleButton3;
             this.guna2CircleButton3.FillColor = System.Drawing.Color.Transparent;
             this.guna2CircleButton3.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2CircleButton3.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleButton3.HoverState.Parent = this.guna2CircleButton3;
             this.guna2CircleButton3.Image = global::GalacticToolsV3.Properties.Resources.icons8_info_24;
             this.guna2CircleButton3.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2CircleButton3.Location = new System.Drawing.Point(4, 515);
             this.guna2CircleButton3.Name = "guna2CircleButton3";
             this.guna2CircleButton3.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CircleButton3.ShadowDecoration.Parent = this.guna2CircleButton3;
             this.guna2CircleButton3.Size = new System.Drawing.Size(35, 35);
             this.guna2CircleButton3.TabIndex = 152;
             this.guna2CircleButton3.Click += new System.EventHandler(this.guna2CircleButton3_Click);
@@ -770,19 +676,14 @@ namespace GalacticToolsV3
             // guna2CircleButton4
             // 
             this.guna2CircleButton4.Animated = true;
-            this.guna2CircleButton4.CheckedState.Parent = this.guna2CircleButton4;
-            this.guna2CircleButton4.CustomImages.Parent = this.guna2CircleButton4;
-            this.guna2CircleButton4.DisabledState.Parent = this.guna2CircleButton4;
             this.guna2CircleButton4.FillColor = System.Drawing.Color.Transparent;
             this.guna2CircleButton4.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2CircleButton4.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleButton4.HoverState.Parent = this.guna2CircleButton4;
             this.guna2CircleButton4.Image = global::GalacticToolsV3.Properties.Resources.icons8_settings_96;
             this.guna2CircleButton4.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2CircleButton4.Location = new System.Drawing.Point(4, 556);
             this.guna2CircleButton4.Name = "guna2CircleButton4";
             this.guna2CircleButton4.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CircleButton4.ShadowDecoration.Parent = this.guna2CircleButton4;
             this.guna2CircleButton4.Size = new System.Drawing.Size(35, 35);
             this.guna2CircleButton4.TabIndex = 151;
             this.guna2CircleButton4.Click += new System.EventHandler(this.guna2CircleButton4_Click);
@@ -790,184 +691,145 @@ namespace GalacticToolsV3
             // guna2Button1
             // 
             this.guna2Button1.Animated = true;
-            this.guna2Button1.CheckedState.Parent = this.guna2Button1;
-            this.guna2Button1.CustomImages.Parent = this.guna2Button1;
-            this.guna2Button1.DisabledState.Parent = this.guna2Button1;
             this.guna2Button1.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.HoverState.Parent = this.guna2Button1;
             this.guna2Button1.Image = global::GalacticToolsV3.Properties.Resources.desktop_52px;
             this.guna2Button1.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2Button1.Location = new System.Drawing.Point(-124, 321);
             this.guna2Button1.Name = "guna2Button1";
-            this.guna2Button1.ShadowDecoration.Parent = this.guna2Button1;
             this.guna2Button1.Size = new System.Drawing.Size(30, 30);
             this.guna2Button1.TabIndex = 143;
             // 
             // guna2Button3
             // 
             this.guna2Button3.Animated = true;
-            this.guna2Button3.CheckedState.Parent = this.guna2Button3;
-            this.guna2Button3.CustomImages.Parent = this.guna2Button3;
-            this.guna2Button3.DisabledState.Parent = this.guna2Button3;
             this.guna2Button3.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button3.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button3.ForeColor = System.Drawing.Color.White;
-            this.guna2Button3.HoverState.Parent = this.guna2Button3;
             this.guna2Button3.Image = global::GalacticToolsV3.Properties.Resources.save_52px;
             this.guna2Button3.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2Button3.Location = new System.Drawing.Point(-124, 269);
             this.guna2Button3.Name = "guna2Button3";
-            this.guna2Button3.ShadowDecoration.Parent = this.guna2Button3;
             this.guna2Button3.Size = new System.Drawing.Size(30, 30);
             this.guna2Button3.TabIndex = 142;
             // 
             // guna2Button5
             // 
             this.guna2Button5.Animated = true;
-            this.guna2Button5.CheckedState.Parent = this.guna2Button5;
-            this.guna2Button5.CustomImages.Parent = this.guna2Button5;
-            this.guna2Button5.DisabledState.Parent = this.guna2Button5;
             this.guna2Button5.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button5.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button5.ForeColor = System.Drawing.Color.White;
-            this.guna2Button5.HoverState.Parent = this.guna2Button5;
             this.guna2Button5.Image = global::GalacticToolsV3.Properties.Resources.nvidia_geforce_64px;
             this.guna2Button5.ImageSize = new System.Drawing.Size(30, 30);
             this.guna2Button5.Location = new System.Drawing.Point(-124, 222);
             this.guna2Button5.Name = "guna2Button5";
-            this.guna2Button5.ShadowDecoration.Parent = this.guna2Button5;
             this.guna2Button5.Size = new System.Drawing.Size(30, 30);
             this.guna2Button5.TabIndex = 141;
             // 
             // guna2Button8
             // 
             this.guna2Button8.Animated = true;
-            this.guna2Button8.CheckedState.Parent = this.guna2Button8;
-            this.guna2Button8.CustomImages.Parent = this.guna2Button8;
-            this.guna2Button8.DisabledState.Parent = this.guna2Button8;
             this.guna2Button8.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button8.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button8.ForeColor = System.Drawing.Color.White;
-            this.guna2Button8.HoverState.Parent = this.guna2Button8;
             this.guna2Button8.Image = global::GalacticToolsV3.Properties.Resources.ds3_tool_64px;
             this.guna2Button8.ImageSize = new System.Drawing.Size(30, 30);
             this.guna2Button8.Location = new System.Drawing.Point(-124, 174);
             this.guna2Button8.Name = "guna2Button8";
-            this.guna2Button8.ShadowDecoration.Parent = this.guna2Button8;
             this.guna2Button8.Size = new System.Drawing.Size(30, 30);
             this.guna2Button8.TabIndex = 140;
             // 
             // guna2Button9
             // 
             this.guna2Button9.Animated = true;
-            this.guna2Button9.CheckedState.Parent = this.guna2Button9;
-            this.guna2Button9.CustomImages.Parent = this.guna2Button9;
-            this.guna2Button9.DisabledState.Parent = this.guna2Button9;
             this.guna2Button9.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button9.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button9.ForeColor = System.Drawing.Color.White;
-            this.guna2Button9.HoverState.Parent = this.guna2Button9;
             this.guna2Button9.Image = global::GalacticToolsV3.Properties.Resources.icons8_apps_tab_50_30x25;
             this.guna2Button9.ImageSize = new System.Drawing.Size(30, 30);
             this.guna2Button9.Location = new System.Drawing.Point(-124, 126);
             this.guna2Button9.Name = "guna2Button9";
-            this.guna2Button9.ShadowDecoration.Parent = this.guna2Button9;
             this.guna2Button9.Size = new System.Drawing.Size(30, 30);
             this.guna2Button9.TabIndex = 139;
             // 
             // guna2Button10
             // 
             this.guna2Button10.Animated = true;
-            this.guna2Button10.CheckedState.Parent = this.guna2Button10;
-            this.guna2Button10.CustomImages.Parent = this.guna2Button10;
-            this.guna2Button10.DisabledState.Parent = this.guna2Button10;
             this.guna2Button10.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button10.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button10.ForeColor = System.Drawing.Color.White;
-            this.guna2Button10.HoverState.Parent = this.guna2Button10;
             this.guna2Button10.Image = global::GalacticToolsV3.Properties.Resources.game_controller_52px;
             this.guna2Button10.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2Button10.Location = new System.Drawing.Point(-124, 78);
             this.guna2Button10.Name = "guna2Button10";
-            this.guna2Button10.ShadowDecoration.Parent = this.guna2Button10;
             this.guna2Button10.Size = new System.Drawing.Size(30, 30);
             this.guna2Button10.TabIndex = 138;
             // 
             // guna2Button11
             // 
             this.guna2Button11.Animated = true;
-            this.guna2Button11.CheckedState.Parent = this.guna2Button11;
-            this.guna2Button11.CustomImages.Parent = this.guna2Button11;
-            this.guna2Button11.DisabledState.Parent = this.guna2Button11;
             this.guna2Button11.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button11.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button11.ForeColor = System.Drawing.Color.White;
-            this.guna2Button11.HoverState.Parent = this.guna2Button11;
             this.guna2Button11.Image = global::GalacticToolsV3.Properties.Resources.home_52px;
             this.guna2Button11.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2Button11.Location = new System.Drawing.Point(-124, 30);
             this.guna2Button11.Name = "guna2Button11";
-            this.guna2Button11.ShadowDecoration.Parent = this.guna2Button11;
             this.guna2Button11.Size = new System.Drawing.Size(30, 30);
             this.guna2Button11.TabIndex = 137;
             // 
             // guna2Button65
             // 
             this.guna2Button65.Animated = true;
-            this.guna2Button65.CheckedState.Parent = this.guna2Button65;
-            this.guna2Button65.CustomImages.Parent = this.guna2Button65;
-            this.guna2Button65.DisabledState.Parent = this.guna2Button65;
             this.guna2Button65.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button65.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button65.ForeColor = System.Drawing.Color.White;
-            this.guna2Button65.HoverState.Parent = this.guna2Button65;
             this.guna2Button65.Image = global::GalacticToolsV3.Properties.Resources.icons8_menu_50_30x251;
             this.guna2Button65.ImageSize = new System.Drawing.Size(30, 25);
             this.guna2Button65.Location = new System.Drawing.Point(-124, -18);
             this.guna2Button65.Name = "guna2Button65";
-            this.guna2Button65.ShadowDecoration.Parent = this.guna2Button65;
             this.guna2Button65.Size = new System.Drawing.Size(30, 25);
             this.guna2Button65.TabIndex = 136;
             // 
             // guna2CircleButton2
             // 
             this.guna2CircleButton2.Animated = true;
-            this.guna2CircleButton2.CheckedState.Parent = this.guna2CircleButton2;
-            this.guna2CircleButton2.CustomImages.Parent = this.guna2CircleButton2;
-            this.guna2CircleButton2.DisabledState.Parent = this.guna2CircleButton2;
             this.guna2CircleButton2.FillColor = System.Drawing.Color.Transparent;
             this.guna2CircleButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2CircleButton2.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleButton2.HoverState.Parent = this.guna2CircleButton2;
             this.guna2CircleButton2.Image = global::GalacticToolsV3.Properties.Resources.icons8_info_24;
             this.guna2CircleButton2.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2CircleButton2.Location = new System.Drawing.Point(-129, 446);
             this.guna2CircleButton2.Name = "guna2CircleButton2";
             this.guna2CircleButton2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CircleButton2.ShadowDecoration.Parent = this.guna2CircleButton2;
             this.guna2CircleButton2.Size = new System.Drawing.Size(35, 35);
             this.guna2CircleButton2.TabIndex = 135;
             // 
             // guna2CircleButton1
             // 
             this.guna2CircleButton1.Animated = true;
-            this.guna2CircleButton1.CheckedState.Parent = this.guna2CircleButton1;
-            this.guna2CircleButton1.CustomImages.Parent = this.guna2CircleButton1;
-            this.guna2CircleButton1.DisabledState.Parent = this.guna2CircleButton1;
             this.guna2CircleButton1.FillColor = System.Drawing.Color.Transparent;
             this.guna2CircleButton1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2CircleButton1.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleButton1.HoverState.Parent = this.guna2CircleButton1;
             this.guna2CircleButton1.Image = global::GalacticToolsV3.Properties.Resources.icons8_settings_96;
             this.guna2CircleButton1.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2CircleButton1.Location = new System.Drawing.Point(-129, 487);
             this.guna2CircleButton1.Name = "guna2CircleButton1";
             this.guna2CircleButton1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CircleButton1.ShadowDecoration.Parent = this.guna2CircleButton1;
             this.guna2CircleButton1.Size = new System.Drawing.Size(35, 35);
             this.guna2CircleButton1.TabIndex = 134;
+            // 
+            // guna2CirclePictureBox2
+            // 
+            this.guna2CirclePictureBox2.Image = global::GalacticToolsV3.Properties.Resources._4ca3bc4d28e97fe9f36f755458733449_1_161x154_40x40;
+            this.guna2CirclePictureBox2.ImageRotate = 0F;
+            this.guna2CirclePictureBox2.Location = new System.Drawing.Point(3, 1);
+            this.guna2CirclePictureBox2.Name = "guna2CirclePictureBox2";
+            this.guna2CirclePictureBox2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.guna2CirclePictureBox2.Size = new System.Drawing.Size(40, 40);
+            this.guna2CirclePictureBox2.TabIndex = 115;
+            this.guna2CirclePictureBox2.TabStop = false;
             // 
             // Info
             // 
@@ -978,7 +840,6 @@ namespace GalacticToolsV3
             this.Controls.Add(this.guna2Panel1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.guna2Button2);
-            this.Controls.Add(this.guna2Button4);
             this.Controls.Add(this.guna2Button6);
             this.Controls.Add(this.guna2Button7);
             this.Controls.Add(this.guna2Button12);
@@ -1006,9 +867,9 @@ namespace GalacticToolsV3
             this.Load += new System.EventHandler(this.Info_Load);
             this.panel69.ResumeLayout(false);
             this.panel69.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).EndInit();
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.CPU)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox7)).EndInit();
@@ -1018,7 +879,7 @@ namespace GalacticToolsV3
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.CPU)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1038,7 +899,6 @@ namespace GalacticToolsV3
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox2;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
-        private Guna.UI2.WinForms.Guna2Button guna2Button4;
         private Guna.UI2.WinForms.Guna2Button guna2Button6;
         private Guna.UI2.WinForms.Guna2Button guna2Button7;
         private Guna.UI2.WinForms.Guna2Button guna2Button12;
@@ -1083,7 +943,6 @@ namespace GalacticToolsV3
         private System.Windows.Forms.Panel panel1;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2ShadowForm guna2ShadowForm1;
-        private Guna.UI2.WinForms.Guna2ContextMenuStrip guna2ContextMenuStrip1;
         private Guna.UI2.WinForms.Guna2CircleProgressBar guna2CircleProgressBar1;
         private System.Windows.Forms.Label label17;
         private System.Diagnostics.PerformanceCounter CPU;

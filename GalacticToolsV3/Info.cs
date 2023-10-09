@@ -12,6 +12,8 @@ using System.Management;
 using NvAPIWrapper;
 using Microsoft.VisualBasic.Devices;
 using System.Diagnostics;
+using System.ServiceProcess;
+using System.Web;
 
 namespace GalacticToolsV3
 { 
@@ -230,7 +232,7 @@ namespace GalacticToolsV3
 
         private void timeboi_Click_1(object sender, EventArgs e)
         {
-
+            
         }
 
         private void timer3_Tick_1(object sender, EventArgs e)
@@ -262,6 +264,11 @@ namespace GalacticToolsV3
         private void label9_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void guna2Button4_Click_1(object sender, EventArgs e)
+        {
+            
         }
     }
 }

@@ -19,9 +19,126 @@ C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\G
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Settings.resources
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.GenerateResource.cache
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.CoreCompileInputs.cache
-C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.Fody.CopyLocal.cache
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.CopyComplete
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.exe
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.pdb
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.AssemblyReference.cache
 C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.UnFlagger.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\Interop.WMPLib.dll
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPLib.dll
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.ResolveComReference.cache
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Video.resources
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.Fody.CopyLocal.cache
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\AForge.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.DirectX.xml
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\XamlC.stamp
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\GalacticToolsV3.exe.config
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\GalacticToolsV3.exe
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\GalacticToolsV3.pdb
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\AForge.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\DiscordRPC.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\NvAPIWrapper.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.AssemblyReference.cache
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.exe.config
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.ResolveComReference.cache
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Apps.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Coming_Soon.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Error.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Info.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Method.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Startup.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.UnFlagger.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.AppsControl.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Video.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Welcome.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Emulators.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Games.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Launchers.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Properties.Resources.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Settings.resources
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.GenerateResource.cache
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.CoreCompileInputs.cache
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.Fody.CopyLocal.cache
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\XamlC.stamp
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.CopyComplete
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.exe
+C:\Users\Jogos\Desktop\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.pdb
+C:\Users\barnh.DRAKESPC\source\repos\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Whitelist.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\GalacticToolsV3.exe.config
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\GalacticToolsV3.exe
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\GalacticToolsV3.pdb
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\AForge.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\DiscordRPC.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\NvAPIWrapper.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Buffers.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Memory.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Numerics.Vectors.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Text.Encodings.Web.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Text.Json.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\System.ValueTuple.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Xamarin.Forms.Core.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\Interop.WMPLib.dll
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\bin\Debug\AxInterop.WMPLib.dll
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.AssemblyReference.cache
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.SuggestedBindingRedirects.cache
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.MediaPlayer.dll
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPDXMLib.dll
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPLauncher.dll
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\Interop.WMPLib.dll
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\AxInterop.WMPLib.dll
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.ResolveComReference.cache
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Apps.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Coming_Soon.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Error.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Info.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Startup.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.UnFlagger.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Welcome.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Emulators.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Games.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Launchers.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Properties.Resources.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.Settings.resources
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.GenerateResource.cache
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.CoreCompileInputs.cache
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.CopyComplete
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.exe
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.pdb
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.Fody.CopyLocal.cache
+D:\Source Codes\GalacticToolsV3\GalacticToolsV3\obj\Debug\GalacticToolsV3.csproj.Fody.RuntimeCopyLocal.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5e46ed6-a531-439d-82f6-60c0bc74a4e2": {
+      "ProjectGuid": "f5e46ed6-a531-439d-82f6-60c0bc74a4e2",
+      "DisplayName": "GalacticToolsV3",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

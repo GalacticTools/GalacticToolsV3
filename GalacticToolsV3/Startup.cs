@@ -82,15 +82,7 @@ namespace GalacticToolsV3
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Welcome welcome = new Welcome();
-            welcome.ShowDialog();
-            this.Close();
-        }
 
-        private void guna2Button2_Click(object sender, EventArgs e)
-        {
-            System.Diagnostics.Process.Start("https://docs.google.com/document/d/1npB-pX_TAJHJOPJtUSqp8UUIIBSz8eR1pzhpyx9s2pc/edit?usp=sharing");
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -108,23 +100,60 @@ namespace GalacticToolsV3
 
         }
 
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            MessageBox.Show("DM NotOverTaken#0001 or ItzDrake#9999 To change the password \nOr Join the discord server at https://discord.gg/XayFrhB2Y4");
-        }
-
-        private void guna2CheckBox1_CheckedChanged(object sender, EventArgs e)
-        {
-            loginButton.FillColor = Color.FromArgb(50, 50, 50);
-
-            loginButton.Enabled = true;
-            
-        }
-
         private void Cose_Click(object sender, EventArgs e)
         {
 
         }
 
+        private void usernameTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void passwordTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2CirclePictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Minimize_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Close_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://raw.githubusercontent.com/GalacticTools/GalacticToolsV3/main/LICENSE");
+        }
+
+        private void guna2CheckBox1_CheckedChanged_1(object sender, EventArgs e)
+        {
+            if (guna2CheckBox1.Checked)
+                loginButton.Enabled = true;
+            else
+                loginButton.Enabled = false;
+        }
+
+        private void loginButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Welcome welcome = new Welcome();
+            welcome.ShowDialog();
+            this.Close();
+        }
     }
 }

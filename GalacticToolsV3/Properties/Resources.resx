@@ -142,14 +142,11 @@
   <data name="Resident_Evil_7_cover_art_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Resident_Evil_7_cover_art_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="300px-Hitman_2_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\300px-Hitman_2_cover_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="nvidia-geforce-claw-logo_30x25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nvidia-geforce-claw-logo_30x25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="179-1793019_windows-10-file-explorer-icon-hd-png-download_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\179-1793019_windows-10-file-explorer-icon-hd-png-download_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fdsff_190x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fdsff_190x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ezgif-7-0835fc5930eb" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ezgif-7-0835fc5930eb.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -175,14 +172,14 @@
   <data name="defaultLogo_190x1681" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\defaultLogo_190x1681.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="download_13_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\download_13_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1024px-Eo_circle_deep-purple_pause.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1024px-Eo_circle_deep-purple_pause.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Origin-logo_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Origin-logo_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="download_11_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\download_11_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logo-epic-cb4399a7ee205610531057537937045e_128x1292" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo-epic-cb4399a7ee205610531057537937045e_128x1292.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ed4ca193fcdf72b005b170f1042c369d_190x168_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ed4ca193fcdf72b005b170f1042c369d_190x168_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -190,8 +187,8 @@
   <data name="MV5BYjY3ODFmNWUtNjhjNC00NTExLWIxYmEtYmQ0YTk5NjkzYTUwXkEyXkFqcGdeQXVyNzEyNjcwNTk1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MV5BYjY3ODFmNWUtNjhjNC00NTExLWIxYmEtYmQ0YTk5NjkzYTUwXkEyXkFqcGdeQXVyNzEyNjcwNTk._V1__231x2701.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="clip-art-dolphin-computer-icons-portable-network-graphics-emulator-png-favpng-QHXbXUa35KLWhd3paHbnqhNHG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\clip-art-dolphin-computer-icons-portable-network-graphics-emulator-png-favpng-QHXbXUa35KLWhd3paHbnqhNHG.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="galacticLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\galacticLogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="16182610568647591714541588417574_128x1292" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\16182610568647591714541588417574_128x1292.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -219,6 +216,9 @@
   </data>
   <data name="Xenia_Emulator_Upadted_Logo_190x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Xenia_Emulator_Upadted_Logo_190x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x270.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ds3_tool_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ds3_tool_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -250,11 +250,14 @@
   <data name="220px-Grand_Theft_Auto_V_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\220px-Grand_Theft_Auto_V_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ubisoft-connect_128x1292" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ubisoft-connect_128x1292.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Blizzard_Battle.net_logo_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Blizzard_Battle.net_logo_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_190x168_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_190x168_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PoPWW_Boxart_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PoPWW_Boxart_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4ca3bc4d28e97fe9f36f755458733449_1_161x154_40x40" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154_40x40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -289,11 +292,20 @@
   <data name="images_2_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images_2_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="video_24px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\video_24px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fdsff_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fdsff_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="3037cb576e8a708c486e67b8ef6d7dcc" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\3037cb576e8a708c486e67b8ef6d7dcc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="origin-2-569446_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\origin-2-569446_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pause_30px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pause_30px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ACOdysseyCoverArt_185x2701" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ACOdysseyCoverArt_185x2701.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Firefox_logo_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Firefox_logo_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -304,14 +316,14 @@
   <data name="unknown_190x168 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unknown_190x168 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-desktop-mac-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-desktop-mac-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="icons8-settings1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-settings1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="parsec" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\parsec.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ACOrigins_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ACOrigins_cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="al2nu-jkzm7-0072" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\al2nu-jkzm7-0072.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -340,9 +352,6 @@
   <data name="download_3_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download_3_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bravelmao my guy u gay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bravelmao my guy u gay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="File-Explorer-fluent-icon_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\File-Explorer-fluent-icon_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -352,8 +361,11 @@
   <data name="parsec_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\parsec_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ezgif.com-gif-maker (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ezgif.com-gif-maker (3).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Firefox_logo_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Firefox_logo_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b5366f6c592e0d7a7fe6c675b1e63ebf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b5366f6c592e0d7a7fe6c675b1e63ebf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="unknown" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unknown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -367,11 +379,11 @@
   <data name="iconfinder_videogame_icons-05_611918_25x25" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\iconfinder_videogame_icons-05_611918_25x25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="user_account_symbol_2_183x182" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\user_account_symbol_2_183x182.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="logo-epic-cb4399a7ee205610531057537937045e_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo-epic-cb4399a7ee205610531057537937045e_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="large" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\large.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="micro_sd_50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\micro_sd_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -382,26 +394,20 @@
   <data name="user_account_symbol_171x165" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user_account_symbol_171x165.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="1024px-Eo_circle_deep-purple_pause.svg (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1024px-Eo_circle_deep-purple_pause.svg (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="icons8-menu-50_30x25" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-menu-50_30x25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="364-3640589_desktop-comments-desktop-vector-icon-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\364-3640589_desktop-comments-desktop-vector-icon-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="16182609953574579341748529190482_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\16182609953574579341748529190482_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="apps.43582.65690499810545026.aa1d3860-b757-4828-bb9e-87e0858403fe_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\apps.43582.65690499810545026.aa1d3860-b757-4828-bb9e-87e0858403fe_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PicsArt_05-02-102" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PicsArt_05-02-102.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="peazip-icon_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\peazip-icon_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="apps.52808.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\apps.52808.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="apps.29198.66416288418246547.8db04ed4-6710-424c-b2c7-fc1b8f89e9a2_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\apps.29198.66416288418246547.8db04ed4-6710-424c-b2c7-fc1b8f89e9a2_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -433,9 +439,6 @@
   <data name="icons8-menu-48 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-menu-48 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="unnamed_30x252" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unnamed_30x252.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="a_df92d8ce3fa9dba25b72cfc7fda42b40" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a_df92d8ce3fa9dba25b72cfc7fda42b40.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -451,14 +454,11 @@
   <data name="spotify-download-logo-30_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\spotify-download-logo-30_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="download_4_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\download_4_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="unflag_50px5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unflag_50px5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-less-than-96_1_29x29" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-less-than-96_1_29x29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Firefox_logo_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Firefox_logo_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="16182609953574579341748529190482_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16182609953574579341748529190482_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="wp4387717" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\wp4387717.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -478,8 +478,8 @@
   <data name="29145659-a3038400-7d23-11e7-8cf4-02a20ee4d59d_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\29145659-a3038400-7d23-11e7-8cf4-02a20ee4d59d_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Roblox_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Roblox_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="fdsff_190x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fdsff_190x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download_11_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download_11_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -489,6 +489,15 @@
   </data>
   <data name="unflag_50px3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unflag_50px3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="getting-over-it-with-bennet-foddy-font_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\getting-over-it-with-bennet-foddy-font_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ezgif.com-gif-maker (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ezgif.com-gif-maker (3).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="video_card_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\video_card_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -508,20 +517,20 @@
   <data name="unnamed_30x254" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unnamed_30x254.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ubisoft-connect_128x1292" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ubisoft-connect_128x1292.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Sands_of_time_cover_185x2701" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sands_of_time_cover_185x2701.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="7f775f51c40dc7fdac86dad5cd63be0d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7f775f51c40dc7fdac86dad5cd63be0d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="defaultLogo_190x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\defaultLogo_190x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Blizzard_Battle.net_logo_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Blizzard_Battle.net_logo_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="steam-logo-transparent_2_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\steam-logo-transparent_2_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="minecraft_logo_icon_168974" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\minecraft_logo_icon_168974.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -535,8 +544,8 @@
   <data name="apps.52808.697480985404974511" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\apps.52808.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076_185x2701.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TeamViewer_Logo_512x512_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TeamViewer_Logo_512x512_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bravelmao my guy u gay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bravelmao my guy u gay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="apps.23943.13510798883386282.e6f02eb7-a760-453e-8d79-46d4ec74807e_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\apps.23943.13510798883386282.e6f02eb7-a760-453e-8d79-46d4ec74807e_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -546,6 +555,9 @@
   </data>
   <data name="unknown_190x168 (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unknown_190x168 (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="220px-Max_Payne_3_Cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\220px-Max_Payne_3_Cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="prince-of-persia-the-forgotten-sands-cover_1_185x2702" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\prince-of-persia-the-forgotten-sands-cover_1_185x2702.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -562,8 +574,8 @@
   <data name="4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x1681" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x1681.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logo-epic-cb4399a7ee205610531057537937045e_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo-epic-cb4399a7ee205610531057537937045e_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="apps.28990.69531514236615003.8f0d03d6-6311-4c21-a151-834503c2901a_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apps.28990.69531514236615003.8f0d03d6-6311-4c21-a151-834503c2901a_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icons8-less-than-100_29x29" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-less-than-100_29x29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -586,11 +598,17 @@
   <data name="HITMAN_III_art_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HITMAN_III_art_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="fl-studio_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fl-studio_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="application_window_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\application_window_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="laptop_50px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\laptop_50px1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessHacker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ProcessHacker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images_1_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images_1_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -607,20 +625,11 @@
   <data name="icons8-password-96_200x200_21x21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-password-96_200x200_21x21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Vegas_Pro_15.0_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Vegas_Pro_15.0_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Advanced_Warfare_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Advanced_Warfare_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PicsArt_05-02-101" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PicsArt_05-02-101.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="download_13_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download_13_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="steam-logo-transparent_1_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\steam-logo-transparent_1_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="4ca3bc4d28e97fe9f36f755458733449_1_161x154" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="danewlogoResizedV2_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\danewlogoResizedV2_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -630,6 +639,9 @@
   </data>
   <data name="images (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (9).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-male-user-96_21x21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-male-user-96_21x21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="66-663254_dolphin-emulator-dolphin-wii-icon-clipart_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\66-663254_dolphin-emulator-dolphin-wii-icon-clipart_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -643,14 +655,17 @@
   <data name="4ca3bc4d28e97fe9f36f755458733449 (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4ca3bc4d28e97fe9f36f755458733449 (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="seven-kingdoms-9_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\seven-kingdoms-9_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="unflag_50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unflag_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="user_account_symbol_145x134" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user_account_symbol_145x134.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x2701" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x2701.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="unnamed_30x252" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed_30x252.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Xenia_Emulator_Upadted_Logo_190x168_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Xenia_Emulator_Upadted_Logo_190x168_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -658,20 +673,23 @@
   <data name="unnamed_30x251" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unnamed_30x251.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PoPWW_Boxart_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PoPWW_Boxart_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="7ziplogo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7ziplogo.svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ACOrigins_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ACOrigins_cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x2701" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x2701.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4ca3bc4d28e97fe9f36f755458733449_1_161x154" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PicsArt_05-02-10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PicsArt_05-02-10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="b5366f6c592e0d7a7fe6c675b1e63ebf" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b5366f6c592e0d7a7fe6c675b1e63ebf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pause_26px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pause_26px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ProcessHacker" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ProcessHacker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="peazip-icon_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\peazip-icon_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="518OkiXrUL_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\518OkiXrUL_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -691,26 +709,20 @@
   <data name="Death_Stranding_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Death_Stranding_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Assassin's_Creed_III_Game_Cover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Assassin's_Creed_III_Game_Cover.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="planner_24px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\planner_24px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cfp1c3QENHakdjuf424Yt6hVn_mmFbOV-M8rITUoVj8_350x200_1x-0_1_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cfp1c3QENHakdjuf424Yt6hVn_mmFbOV-M8rITUoVj8_350x200_1x-0_1_185x270.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="9ee51b63631ad330327b5eeddbab4370" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9ee51b63631ad330327b5eeddbab4370.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="unflag_50px6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unflag_50px6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="download-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\download-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="432px-Yuzu_Emulator_SVG.svg_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\432px-Yuzu_Emulator_SVG.svg_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Google_Chrome_icon_2011_1_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Google_Chrome_icon_2011_1_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Vegas_Pro_15.0_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vegas_Pro_15.0_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icons8-info-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-info-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -724,11 +736,11 @@
   <data name="MV5BYjY3ODFmNWUtNjhjNC00NTExLWIxYmEtYmQ0YTk5NjkzYTUwXkEyXkFqcGdeQXVyNzEyNjcwNTk._V1__231x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MV5BYjY3ODFmNWUtNjhjNC00NTExLWIxYmEtYmQ0YTk5NjkzYTUwXkEyXkFqcGdeQXVyNzEyNjcwNTk._V1__231x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="220px-Max_Payne_3_Cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\220px-Max_Payne_3_Cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PicsArt_05-02-101" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PicsArt_05-02-101.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="tjPOPhB" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tjPOPhB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Advanced_Warfare_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Advanced_Warfare_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="steam-logo-transparent (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\steam-logo-transparent (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -736,11 +748,14 @@
   <data name="spotify-download-logo-30_128x1292" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\spotify-download-logo-30_128x1292.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="icons8-password-96_200x200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-password-96_200x200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="home_52px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\home_52px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Assassins_Creed_2_Box_Art_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Assassins_Creed_2_Box_Art_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TeamViewer_Logo_512x512_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TeamViewer_Logo_512x512_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download_10_1_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download_10_1_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -751,8 +766,8 @@
   <data name="stepper_motor_52px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\stepper_motor_52px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="unknown_190x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknown_190x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="tjPOPhB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tjPOPhB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Notepad++_Logo.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Notepad++_Logo.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -760,11 +775,11 @@
   <data name="watch-dogs-legion-cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\watch-dogs-legion-cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="fdsff_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fdsff_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="download_4_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download_4_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Modern_Warfare_2_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Modern_Warfare_2_cover_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download_6_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download_6_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -775,8 +790,8 @@
   <data name="creed_box_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\creed_box_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logo-epic-cb4399a7ee205610531057537937045e_128x1292" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo-epic-cb4399a7ee205610531057537937045e_128x1292.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Roblox_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Roblox_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="519-5198145_bluestacks-icon-bluestacks-logo-png_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\519-5198145_bluestacks-icon-bluestacks-logo-png_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -787,8 +802,8 @@
   <data name="ubisoft-connect_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ubisoft-connect_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="versions_24px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\versions_24px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Sands_of_time_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sands_of_time_cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="16182610568647591714541588417574_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\16182610568647591714541588417574_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -805,14 +820,20 @@
   <data name="download_12_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download_12_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="resident-evil-2-biohazard-re2-cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\resident-evil-2-biohazard-re2-cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="steam-logo-transparent_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\steam-logo-transparent_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download-removebg-preview (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download-removebg-preview (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Assassins_Creed_III_Game_Cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Assassins_Creed_III_Game_Cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="unnamed_30x25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed_30x25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="discord-mascot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\discord-mascot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download_2_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download_2_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -820,17 +841,14 @@
   <data name="ksp_box_art_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ksp_box_art_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="seven-kingdoms-9_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\seven-kingdoms-9_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cfp1c3QENHakdjuf424Yt6hVn_mmFbOV-M8rITUoVj8_350x200_1x-0_1_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cfp1c3QENHakdjuf424Yt6hVn_mmFbOV-M8rITUoVj8_350x200_1x-0_1_185x270.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="seven-kingdoms-9_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\seven-kingdoms-9_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="task-manager-taskmgr-icon-big_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\task-manager-taskmgr-icon-big_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="nvidia-geforce-claw-logo_30x25" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\nvidia-geforce-claw-logo_30x25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="steam-logo-transparent_2_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam-logo-transparent_2_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="unknown_1_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unknown_1_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -847,14 +865,14 @@
   <data name="4ca3bc4d28e97fe9f36f755458733449 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4ca3bc4d28e97fe9f36f755458733449 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-apps-tab-50_30x25" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-apps-tab-50_30x25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="nvidia_geforce_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nvidia_geforce_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="png-clipart-three-gray-lines-illustration-hamburger-menu-icon-icons-logos-emojis-menu-icons" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-clipart-three-gray-lines-illustration-hamburger-menu-icon-icons-logos-emojis-menu-icons.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clip-art-dolphin-computer-icons-portable-network-graphics-emulator-png-favpng-QHXbXUa35KLWhd3paHbnqhNHG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clip-art-dolphin-computer-icons-portable-network-graphics-emulator-png-favpng-QHXbXUa35KLWhd3paHbnqhNHG.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="zoom-fondo-blanco-vertical-logo-F819E1C283-seeklogo_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\zoom-fondo-blanco-vertical-logo-F819E1C283-seeklogo_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -868,20 +886,23 @@
   <data name="images_4_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images_4_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4ca3bc4d28e97fe9f36f755458733449_1_161x154_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="versions_24px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\versions_24px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="game_controller_52px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\game_controller_52px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ACOdysseyCoverArt_185x2701" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ACOdysseyCoverArt_185x2701.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="discord-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\discord-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-less-than-96_1_29x29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-less-than-96_1_29x29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="16182610568647591714541588417574_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\16182610568647591714541588417574_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="apps.28990.69531514236615003.8f0d03d6-6311-4c21-a151-834503c2901a_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\apps.28990.69531514236615003.8f0d03d6-6311-4c21-a151-834503c2901a_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logo-epic-cb4399a7ee205610531057537937045e_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo-epic-cb4399a7ee205610531057537937045e_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ubisoft-connect_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ubisoft-connect_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -892,32 +913,32 @@
   <data name="download (11)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download (11).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="workstation_30px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\workstation_30px1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="desktop_52px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\desktop_52px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\VBRbgdNXc146sWyIztXGEd3B2K38hoKWDj8565uiUKI_350x200_1x-0_185x270.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8-apps-tab-50_30x25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-apps-tab-50_30x25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-password-96_200x200" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-password-96_200x200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Assassins_Creed_2_Box_Art_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Assassins_Creed_2_Box_Art_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="visual-studio-code-logo-png-transparent_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\visual-studio-code-logo-png-transparent_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Sands_of_time_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sands_of_time_cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="5857242931556279648-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5857242931556279648-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="eed8617c83ce52e9beb552ad8eb468d3_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\eed8617c83ce52e9beb552ad8eb468d3_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="discord-mascot" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\discord-mascot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="task-manager-taskmgr-icon-big_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\task-manager-taskmgr-icon-big_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="unflag_50px5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unflag_50px5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="user_account_symbol_2_183x182" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user_account_symbol_2_183x182.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="discord-logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\discord-logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -925,8 +946,8 @@
   <data name="apps.26312.70628478259232551.a0089f3a-b3b5-4c4b-bdaf-0d97810a4816_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\apps.26312.70628478259232551.a0089f3a-b3b5-4c4b-bdaf-0d97810a4816_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="5857242931556279648-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5857242931556279648-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="workstation_30px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\workstation_30px1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -937,8 +958,8 @@
   <data name="300px-Resident_Evil_3_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\300px-Resident_Evil_3_cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Untitled_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Untitled_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="apps.52808.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apps.52808.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="clock_24px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\clock_24px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -946,11 +967,11 @@
   <data name="RPCS3_LOGO_190x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\RPCS3_LOGO_190x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-male-user-96_21x21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-male-user-96_21x21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="300px-Hitman_2_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\300px-Hitman_2_cover_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="discord-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\discord-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Modern_Warfare_2_cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Modern_Warfare_2_cover_185x270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="task-manager-taskmgr-icon-big_128x1292" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\task-manager-taskmgr-icon-big_128x1292.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -964,8 +985,8 @@
   <data name="icons8-metamorphose-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-metamorphose-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="getting-over-it-with-bennet-foddy-font_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\getting-over-it-with-bennet-foddy-font_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="unknown_190x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unknown_190x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="7605670_183x168" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\7605670_183x168.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -973,8 +994,8 @@
   <data name="zortosunzipperlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\zortosunzipperlogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="unnamed_30x25" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unnamed_30x25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8-desktop-mac-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-desktop-mac-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_190x1681" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-clipart-citra-nintendo-3ds-emulator-video-game-pokemon-logo-food-orange_190x1681.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -982,19 +1003,19 @@
   <data name="apps_tab_24px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\apps_tab_24px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="7ziplogo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\7ziplogo.svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Google_Chrome_icon_2011_1_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Google_Chrome_icon_2011_1_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download_5_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download_5_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="resident-evil-2-biohazard-re2-cover_185x270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\resident-evil-2-biohazard-re2-cover_185x270.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="origin-2-569446_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\origin-2-569446_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="fl-studio_128x129" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fl-studio_128x129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="download_11_128x1291" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download_11_128x1291.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="large" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\large.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="7f775f51c40dc7fdac86dad5cd63be0d1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7f775f51c40dc7fdac86dad5cd63be0d1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

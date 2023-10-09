@@ -19,7 +19,7 @@ namespace GalacticToolsV3.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -57,6 +57,26 @@ namespace GalacticToolsV3.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1024px_Eo_circle_deep_purple_pause_svg {
+            get {
+                object obj = ResourceManager.GetObject("1024px-Eo_circle_deep-purple_pause.svg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1024px_Eo_circle_deep_purple_pause_svg__1_ {
+            get {
+                object obj = ResourceManager.GetObject("1024px-Eo_circle_deep-purple_pause.svg (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -413,6 +433,26 @@ namespace GalacticToolsV3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _7f775f51c40dc7fdac86dad5cd63be0d {
+            get {
+                object obj = ResourceManager.GetObject("7f775f51c40dc7fdac86dad5cd63be0d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _7f775f51c40dc7fdac86dad5cd63be0d1 {
+            get {
+                object obj = ResourceManager.GetObject("7f775f51c40dc7fdac86dad5cd63be0d1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _7ziplogo_svg {
             get {
                 object obj = ResourceManager.GetObject("7ziplogo.svg", resourceCulture);
@@ -456,6 +496,16 @@ namespace GalacticToolsV3.Properties {
         internal static System.Drawing.Bitmap _91__4R2rAjL_185x270 {
             get {
                 object obj = ResourceManager.GetObject("91--4R2rAjL_185x270", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9ee51b63631ad330327b5eeddbab4370 {
+            get {
+                object obj = ResourceManager.GetObject("9ee51b63631ad330327b5eeddbab4370", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -713,29 +763,9 @@ namespace GalacticToolsV3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Assassin_s_Creed_III_Game_Cover {
-            get {
-                object obj = ResourceManager.GetObject("Assassin\'s_Creed_III_Game_Cover", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Assassins_Creed_2_Box_Art_185x270 {
             get {
                 object obj = ResourceManager.GetObject("Assassins_Creed_2_Box_Art_185x270", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Assassins_Creed_III_Game_Cover_185x270 {
-            get {
-                object obj = ResourceManager.GetObject("Assassins_Creed_III_Game_Cover_185x270", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1327,6 +1357,16 @@ namespace GalacticToolsV3.Properties {
         internal static System.Drawing.Bitmap Galactic_tools_190x168_183x168 {
             get {
                 object obj = ResourceManager.GetObject("Galactic_tools_190x168_183x168", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap galacticLogo {
+            get {
+                object obj = ResourceManager.GetObject("galacticLogo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2028,6 +2068,26 @@ namespace GalacticToolsV3.Properties {
         internal static System.Drawing.Bitmap parsec_128x1291 {
             get {
                 object obj = ResourceManager.GetObject("parsec_128x1291", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pause_26px {
+            get {
+                object obj = ResourceManager.GetObject("pause_26px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pause_30px {
+            get {
+                object obj = ResourceManager.GetObject("pause_30px", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2874,6 +2934,16 @@ namespace GalacticToolsV3.Properties {
         internal static System.Drawing.Bitmap versions_24px {
             get {
                 object obj = ResourceManager.GetObject("versions_24px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap video_24px {
+            get {
+                object obj = ResourceManager.GetObject("video_24px", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

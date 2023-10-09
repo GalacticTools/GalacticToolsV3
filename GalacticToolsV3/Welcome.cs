@@ -15,6 +15,7 @@ namespace GalacticToolsV3
         public Welcome()
         {
             InitializeComponent();
+            RandomGenerator();
         }
         public string RandomGenerator()
         {
@@ -126,6 +127,16 @@ namespace GalacticToolsV3
         }
 
         private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button7_Click_1(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void label5_Click(object sender, EventArgs e)
         {
 
         }

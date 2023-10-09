@@ -135,8 +135,7 @@ namespace GalacticToolsV3
 
         private void guna2Button7_Click(object sender, EventArgs e)
         {
-            Coming_Soon coming = new Coming_Soon();
-            coming.ShowDialog();
+            
         }
 
         private void guna2Button4_Click(object sender, EventArgs e)
